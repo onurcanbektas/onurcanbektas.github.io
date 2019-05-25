@@ -12,7 +12,7 @@ twitter_username: onurcanbektas
 github_username:  onurcanbektas
 #gplus_username:  loremipsum
 linkedin_public_url: onurcanbektas # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: disqus_ydlCprIPGE
+disqus_username: onurcanbektas
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings
@@ -44,16 +44,16 @@ links:
     #  key_trigger: 4
     - title: about me
       url: /about
-      key_trigger: 5
+      key_trigger: 3
   section_2:
-    - title: github
+    - title: Github
       url: http://www.github.com/onurcanbektas
       new_tab: true
       key_trigger: g
     - title: Researchgate
       url: www.researchgate.net/profile/Onurcan_Bektas
       key_trigger: t
-    - title: search
+    - title: Search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
 
