@@ -8,11 +8,11 @@ url: "http://onurcanbektas.github.io" # for test: remove string 'http://victorvo
 username: onurcanbektas
 user_title: Onurcan Bektas
 email: onurcan.bektas@metu.edu.tr
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+twitter_username: @onurcanbektas
+github_username:  @onurcanbektas
+#gplus_username:  loremipsum
+linkedin_public_url: onurcanbektas # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: disqus_ydlCprIPGE
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings
@@ -36,12 +36,12 @@ links:
     - title: my posts
       url: /posts
       key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
+    #- title: series
+    #  url: /series
+    #  key_trigger: 3
+    #- title: tags
+    #  url: /tags
+    #  key_trigger: 4
     - title: about me
       url: /about
       key_trigger: 5
@@ -50,8 +50,8 @@ links:
       url: http://www.github.com/victorvoid
       new_tab: true
       key_trigger: g
-    - title: twitter
-      url: http://www.twitter.com/victorvoid
+    - title: Researchgate
+      url: https://www.researchgate.net/profile/Onurcan_Bektas
       key_trigger: t
     - title: search
       url: ""
