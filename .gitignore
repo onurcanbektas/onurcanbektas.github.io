@@ -3,3 +3,4 @@ _site
 node_modules
 _drafts
 README.md
+package-lock.json
