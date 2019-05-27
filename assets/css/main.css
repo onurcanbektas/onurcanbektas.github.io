@@ -1145,7 +1145,7 @@ html,body {
 }
 
 .post h1:before,.post h2:before,.post h3:before {
-    color: #5d4d7a;
+    color: #fff;
     font-weight: 300;
     margin-right: 10px
 }
@@ -1209,20 +1209,20 @@ html,body {
 }
 
 .post-content p,.post-content li {
-    color: #333;
+    color: #fff;
 }
 
 .post-content p code,.post-content li code {
-    color: #615576
+    color: #fff
 }
 
 .post-content a {
     font-family: 'Open Sans',sans-serif;
     font-weight: 300;
-    font-style: normal;
-    color: #5d4d7a;
+    font-style: bold;
+    color: #111912;
     text-decoration: none;
-    border-bottom: 2px solid #5d4d7a;
+    border-bottom: 2px solid #111912;
 }
 
 .post-content a:hover {
@@ -1305,7 +1305,7 @@ html,body {
     margin-left: auto;
     padding-left: 0;
     padding-right: 0;
-    border-left: .313rem solid #5d4d7a;
+    border-left: .313rem solid #111912;
     padding: 0 1.875rem;
     margin: 3.125rem auto;
 }
@@ -1326,7 +1326,7 @@ html,body {
 }
 
 .post-content blockquote p {
-    color: rgba(0,0,0,0.6);
+    color: #111912;
     margin: 0;
 }
 
