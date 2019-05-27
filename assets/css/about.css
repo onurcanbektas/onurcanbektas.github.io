@@ -6,7 +6,7 @@ html {
 
 body {
     margin: 0;
-    background-color: #fff
+    background-color: #2f2f33
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary {
@@ -843,7 +843,7 @@ html,body {
 }
 
 .header-site,.header-post,.page-header {
-    background: #fff;
+    background: #2f2f33;
     height: 100%;
 }
 
