@@ -910,11 +910,11 @@ html,body {
     margin: 0;
     font-weight: 300;
     font-size: 1.063rem;
-    border-bottom: 1px solid #8774a9;
+    border-bottom: 1px solid 0;
 }
 
 .header-site .recent a h2:hover {
-    background: rgba(135,116,169,0.42)
+    color: #000;
 }
 
 .header-site h1,.header-site h2 {
