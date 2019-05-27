@@ -910,11 +910,11 @@ html,body {
     margin: 0;
     font-weight: 300;
     font-size: 1.063rem;
-    border-bottom: 1px solid 0;
+    border-bottom: 1px solid #8774a9;
 }
 
 .header-site .recent a h2:hover {
-    color: #000;
+    background: rgba(135,116,169,0.42)
 }
 
 .header-site h1,.header-site h2 {
@@ -1222,11 +1222,12 @@ html,body {
     font-style: bold;
     color: #111912;
     text-decoration: none;
-    border-bottom: 2px solid #111912;
+    
 }
 
 .post-content a:hover {
-    background-color: rgba(135,116,169,0.42)
+    color: #fff;
+    
 }
 
 .post-content iframe {
