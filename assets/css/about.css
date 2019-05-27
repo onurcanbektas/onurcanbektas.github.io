@@ -331,7 +331,7 @@ a.slideButton,.dosearch {
 
 .dosearch {
     right: 10px;
-    background: #9f0039;
+    background: #2f2f33;
     border-radius: .188rem;
     padding: .125rem .188rem
 }
@@ -340,7 +340,7 @@ a.slideButton,.dosearch {
     cursor: pointer;
     padding: .313rem;
     border-radius: .188rem;
-    background: #9f0039;
+    background: #2f2f33;
     width: 2.5rem;
     height: 2.5rem;
     fill: #fff
@@ -1000,11 +1000,11 @@ html,body {
 }
 
 .page_posts #search {
-    background: transparent;
+    background: #2f2f33;
 }
 
 .page_posts #search svg {
-    background-color: #9f0039
+    background-color: #2f2f33
 }
 
 .tree-posts {
