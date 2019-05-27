@@ -22,7 +22,7 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
  */
 gulp.task('jekyll-build', function (done) {
 	browserSync.notify(messages.jekyllBuild);
-	return cp.spawn(jekyllCommand, ['build'], {stdio: 'inherit'})
+	 cp.spawn(jekyllCommand, ['build'], {stdio: 'inherit'})
 		.on('close', done);
 });
 
@@ -36,10 +36,11 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['jekyll-build'], function() {
+gulp.task('browser-sync', function() {
+	gulp.task('jekyll-build');
 	browserSync({
 		server: {
-			baseDir: '_site'
+			baseDir: './',
 		}
 	});
 });
@@ -63,7 +64,7 @@ gulp.task('stylus', function(){
  * Javascript Task
  */
 gulp.task('js', function(){
-	return gulp.src('src/js/**/*.js')
+	 gulp.src('src/js/**/*.js')
 		.pipe(plumber())
 		.pipe(concat('main.js'))
 		.pipe(uglify())
@@ -97,4 +98,17 @@ gulp.task('watch', function () {
  * Default task, running just `gulp` will compile the stylus,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
+
+/**var connect = require('gulp-connect');
+
+gulp.task('connect', function() {
+  connect.server({
+    root: './',
+    livereload: true
+  })
+});*/
+
 gulp.task('default', ['js', 'stylus', 'browser-sync', 'watch']);
+
+
+
