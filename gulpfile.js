@@ -4,6 +4,7 @@ var gulp        = require('gulp'),
 	stylus      = require('gulp-stylus'),
 	uglify      = require('gulp-uglify'),
 	concat      = require('gulp-concat'),
+	sass 		= require('gulp-sass'),
 	jeet        = require('jeet'),
 	rupture     = require('rupture'),
 	koutoSwiss  = require('kouto-swiss'),
@@ -40,7 +41,7 @@ gulp.task('browser-sync', function() {
 	gulp.task('jekyll-build');
 	browserSync({
 		server: {
-			baseDir: './',
+			baseDir: '_site',
 		}
 	});
 });
@@ -73,6 +74,18 @@ gulp.task('js', function(){
     .pipe(gulp.dest('_site/assets/js/'));
 });
 
+gulp.task('sass', function () {
+     gulp.src('assets/css/main.scss')
+        .pipe(sass({
+            includePaths: ['css'],
+            onError: browserSync.notify
+        }))
+        .pipe(plumber())
+        .pipe(gulp.dest('_site/assets/css'))
+        .pipe(browserSync.reload({stream:true}))
+        .pipe(gulp.dest('assets/css'));
+});
+
 /**
  * Imagemin Task
  */
@@ -90,6 +103,7 @@ gulp.task('imagemin', function() {
 gulp.task('watch', function () {
 	gulp.watch('src/styl/**/*.styl', ['stylus']);
 	gulp.watch('src/js/**/*.js', ['js']);
+	gulp.watch('src/css/**/*.css', ['sass']);
 	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
 	gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
@@ -108,7 +122,7 @@ gulp.task('connect', function() {
   })
 });*/
 
-gulp.task('default', ['js', 'stylus', 'browser-sync', 'watch']);
+gulp.task('default', ['js', 'sass', 'stylus', 'browser-sync', 'watch']);
 
 
 

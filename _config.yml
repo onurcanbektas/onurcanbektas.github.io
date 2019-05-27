@@ -46,4 +46,4 @@ projects:
     url: https://github.com/onurcanbektas/KnightOnline
 
 # exclude my node related stuff
-exclude: ['package.json', 'node_modules', 'README.md']
+exclude: ['package.json', 'src' ,'node_modules']

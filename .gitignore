@@ -5,3 +5,5 @@ _drafts
 README.md
 package-lock.json
 gulpfile.js
+localhost_config.yml
+package.json
