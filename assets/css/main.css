@@ -380,8 +380,8 @@ aside ul {
 }
 
 aside #topmenu {
-    background-color: #5d4d7a;
-    border: 2px solid #5d4d7a;
+    background-color: #367c42;
+    border: 2px solid #367c42;
     *zoom:1;}
 
 aside #topmenu:before,aside #topmenu:after {
@@ -516,7 +516,7 @@ aside #topmenu ul li:first-child span {
 }
 
 aside #topmenu ul li:nth-child(3) {
-    background: #ab67ab;
+    background: #367c42;
     padding-right: 30px;
     padding-left: 30px;
 }
@@ -533,7 +533,7 @@ aside #topmenu ul li span {
     font-weight: 800;
     font-style: normal;
     font-size: .813rem;
-    color: #ab67ab
+    color: #fff
 }
 
 @media only screen and (max-width: 37.5rem) {
@@ -549,7 +549,7 @@ aside nav ul {
 }
 
 aside nav ul .counter-menu {
-    color: #ab67ab;
+    color: #fff;
     font-weight: 800;
     margin-right: 4px
 }
