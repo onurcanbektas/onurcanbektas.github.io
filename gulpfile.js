@@ -41,7 +41,7 @@ gulp.task('browser-sync', function() {
 	gulp.task('jekyll-build');
 	browserSync({
 		server: {
-			baseDir: '_site',
+			baseDir: './',
 		}
 	});
 });
@@ -65,7 +65,7 @@ gulp.task('stylus', function(){
  * Javascript Task
  */
 gulp.task('js', function(){
-	 gulp.src('src/js/**/*.js')
+	  gulp.src('src/js/**/*.js')
 		.pipe(plumber())
 		.pipe(concat('main.js'))
 		.pipe(uglify())
