@@ -1,3 +1,4 @@
+.DS_Store
 _site
 .sass-cache
 node_modules
@@ -7,4 +8,6 @@ package-lock.json
 gulpfile.js
 localhost_config.yml
 package.json
-_site*
+Gemfile
+Gemfile.lock
+.jekyll-metadata
