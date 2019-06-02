@@ -2,7 +2,7 @@
 layout: post
 title:  "On the problem of teaching mathematics in Universities"
 image: ''
-date:   2019-05-27 13:20:00
+date:   2019-05-27 13:20:00 +0100
 tags:
 - first-post
 description: ''
