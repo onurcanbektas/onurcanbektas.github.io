@@ -856,7 +856,7 @@ html,body {
     left: 50%;
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    text-align: center
+    text-align: center;
 }
 
 .header-site li {
@@ -971,7 +971,7 @@ html,body {
     margin: 0;
     padding-top: 23px;
     text-align: center;
-    color: #fff
+    color: #fd9620;
 }
 
 .page-header {
@@ -1164,7 +1164,7 @@ html,body {
 
 .post h1:before {
     content: "#";
-    color: #fff;
+    color: #fd9620;
     font-size: 2.5rem
 }
 
@@ -1263,7 +1263,8 @@ html,body {
 
 .post-content h2:before {
     content: '##';
-    font-size: 1.563rem
+    font-size: 1.563rem;
+    color: #fd9620;
 }
 
 @media only screen and (min-width: 37.5rem) {

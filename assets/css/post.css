@@ -971,7 +971,7 @@ html,body {
     margin: 0;
     padding-top: 23px;
     text-align: center;
-    color: #fff
+    color: #fd9620;
 }
 
 .page-header {
@@ -1164,7 +1164,7 @@ html,body {
 
 .post h1:before {
     content: "#";
-    color: #fff;
+    color: #fd9620;
     font-size: 2.5rem
 }
 
@@ -1182,29 +1182,31 @@ html,body {
 
 .post-content {
     padding: 1rem 0;
+    overflow-wrap: break-word;
 }
 
 .post-content img {
-    max-width: 100%;
+    max-width: 50%;
     margin: 1.875rem auto;
     display: block
 }
 
 .post-content p,.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content ul,.post-content ol,.post-content .tags,.post-content iframe {
-    max-width: 50rem;
+    max-width: 70rem;
     padding: 0 1.25rem;
     margin: 0 auto 1.875rem;
     font-family: 'Open Sans',sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 1.125rem;
+    font-size: 1.925rem;
     line-height: 2;
     letter-spacing: .01rem;
+    
 }
 
 @media only screen and (min-width: 37.5rem) {
     .post-content p,.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content ul,.post-content ol,.post-content .tags,.post-content iframe {
-        font-size:1.25rem
+        font-size:1.05rem
     }
 }
 
@@ -1259,11 +1261,13 @@ html,body {
 .post-content h2 {
     font-size: 1.375rem;
     line-height: 1.4;
+ 
 }
 
 .post-content h2:before {
     content: '##';
-    font-size: 1.563rem
+    font-size: 1.563rem;
+    color: #fd9620;
 }
 
 @media only screen and (min-width: 37.5rem) {
