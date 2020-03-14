@@ -15,15 +15,15 @@ categories:
 <br>
 
 <p style="font-size:12pt">
-	 If, anytime during your Bachelor's degree, you answer the question "How is your degree going ?" as something like "[...]. I just taking courses.", then you are doing something "wrong" in the sense that if you want to continue doing Physics after your graduation, then you should be doing much more than just taking courses.
+	 If, anytime during your Bachelor's degree, you answer the question "How is your degree going ?" something like "[...]. I am just taking courses.", then you are doing something "wrong" in the sense that if you want to continue doing Physics after your graduation, then you should be doing much more than just taking courses.
 </p>
 
 <p style="font-size:12pt">
-    For example, by the winter break of your 3rd year, you should have an idea about which field of Physics you are interested in, regardless of whether you want to work in industry or academia, and by spring semester of your 3rd, you should have found - and applied - a research group/company to work with; transitioning from a student taking courses to a researcher - or let's say to be a Physicist - is not an easy task. Therefore, one needs enough time for thes transition, and one should have made this before their final year, because in that year you will apply to PhD/Master's programs, to industry jobs, and almost no one in the right mind will want to accept/hire a person who only knows how to be a "good" student.
+    For example, by the winter break of your 3rd year, you should have an idea about which field of Physics you are interested in, regardless of whether you want to work in industry or academia, and by spring semester of your 3rd year you should have found - and applied - a research group/company to work with; transitioning from a student who takes courses to a researcher does not happen overnight. Therefore, one needs enough time for this transition, and one should have made it before their final year, because in the final year you will apply to PhD/Master's programs, to industry jobs, and almost no one in the right mind will want to accept/hire a person who only knows how to be a "good" student.
 </p>
 
 <p style="font-size:12pt">
-    As another example, by the end of your second year, you should have applied to various summer schools, REU programs, internships, or have talked with some of your professor about whether there are any projects that you can help with, etc.; there is a difference between taking a course on a subject, and actively solving a problem relating that subject. That is why, using your already-acquired skills to solve some problems - using your superpower to do some good! - is quite helpful to understand whether you like working on the subject, whether you want to stay in academia/industry, or even whether you want to be a researcher working on an undefined/well-defined problem.
+    As another example, by the end of your second year, you should have applied to various summer schools, REU programs, internships, or have talked with some of your professor about whether there are any projects that you can help with, etc.; there is a difference between taking a course on a subject, and actively solving a problem relating that subject. That is why, using your already-acquired skills to solve some problems - using your superpowers to do some good! - is quite helpful in understanding whether you like working on the subject, whether you want to stay in academia/industry, or even whether you want to be a researcher working on an undefined/well-defined problems.
 </p>
 
 <p style="font-size:12pt">
