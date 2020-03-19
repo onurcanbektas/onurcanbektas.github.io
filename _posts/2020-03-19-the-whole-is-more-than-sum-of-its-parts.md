@@ -17,7 +17,7 @@ However, let's look at very basic example; see the following figure.
 
 <div class="content">
 	        <div class="person">
-            <img alt="My photo" src="../assets/img/fif3-9.png" width="24%" height="24%">
+            <img alt="My photo" src="../assets/img/fif3-9.png" width="32%" height="32%">
 		</div>
 </div>
 
