@@ -1,23 +1,25 @@
 ---
 layout: post
-title:  "when is the whole more than the sum of its parts?"
+title:  "When is the whole more than the sum of its parts?"
 image: ''
 date:   2020-03-19 14:25:00 +0100
 tags:
 - Books
-description: 'Some book suggestion'
+description: 'When is the whole more than the sum of its parts?'
 published: true
 categories:
-- Suggestions, Books
+- statistical mechanics, nonequilibrium thermodynamics
 ---
-
-## When is the whole more than the sum of its parts?
 
 Often, when we analyze complex systems, such as cells, tissues, collodial systems, bacteria colonies, etc., the major problem is that almost all of our methods are based on the idea that all the information that is needed understand the system can be extracted from the states of the smallest units of the system. For example, if we have a collodial particles exhibiting complex behaviours, by just tracking each individiual particles, one can learn all the things that can be learnt about the system. In other words, the 6N variables cover the whole phase space.
 
 However, let's look at very basic example; see the following figure.
 
-[figure 3.8]
+<div class="content">
+	        <div class="person">
+            <img alt="My photo" src="../assets/img/fif3-9.png" width="24%" height="24%">
+		</div>
+</div>
 
 Now, let's define our system as all of the box containing both compartments; this is where we analyze "the whole". We know from thermodynamics that because of the temperature difference between the compartments hot and cold, there will be temperature gradient between at the boundary seperating A from B. Moreover, one can easily calculate that the entropy of the whole system will be increased by (1/T_1 - 1/T_2)\Delta Q by the time it reaches to the equilibrium. Therefore, the system goes under an irreversible process, and the evolution of the system is not time symmetric.
 
