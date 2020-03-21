@@ -17,7 +17,7 @@ However, let's look at very basic example; see the following figure.
 
 <div class="content">
 	        <div class="person">
-            <img alt="My photo" src="../assets/img/fif3-9.png" width="24%" height="24%">
+            <img alt="My photo" src="../assets/img/fif3-9.png" width="32%" height="32%">
 		</div>
 </div>
 
@@ -27,7 +27,7 @@ Now, let's "zoom in" and analyze only the hot compartment, i.e "the parts". As f
 
 This suggests that having all the information about the state of each individual subunits does not contain all the information about the whole system. Because, when we analyze the compartments separately, one implicitly assumes that the sum of separated systems is the same as the combined whole systems, but this is not true unless the compartments are identical; read more about from Prigogine, Modern Thermodynamics, p116, Box 3.3.
 
-As as result, unless the entropy production within the whole system that we are interested in is zero, our methods are basically useless if we do not account for every interaction between individial subunits, which is often quite diffucult to measure. That is why, we need new tools, new ways of looking into these kinds of systems where see complex behaviours.
+As as result, unless the entropy production within the whole system that we are interested in is zero, our methods are basically useless if we do not account for every interaction between individial subunits, which is often quite diffucult to measure. That is why, we need new tools, new ways of looking into these kinds of systems where we see complex behaviours.
 
 
 
