@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A small suggestion to Physics students"
+title:  "A few suggestions to Physics students"
 image: ''
 date:   2019-11-09 04:25:00 +0100
 tags:
@@ -11,7 +11,7 @@ categories:
 - Suggestions
 ---
 
-<p style="font-size:11pt"> A small suggestion to Physics students, which - <b>I think</b> - is generally applicable.</p>
+<p style="font-size:11pt"> A few suggestions to Physics students, which - <b>I think</b> - is generally applicable.</p>
 <br>
 
 <p style="font-size:12pt">
