@@ -26,16 +26,5 @@ In the above particles in an isolated box example, we know from experiments that
 Consider the situations where at any given time there are at least one irreversible process that is amenable, and the state of the system has internal fluctuations; i.e the function that describes the state is a random variable. Then any fluctuation toward a state of higher entropy will be irreversible, so once the system passes to an higher entopy state, it cannot go back; therefore, in average, the system would evolve toward a state with higher entropy.
 
 
-## Another possible answer: look at the statistical definition of entropy
-
-Really, let's look at it. 
-
-S = k_B ln(W), where W is the total number of possible configurations (i.e microstates) corrosponding to the current (macro)state of the system.
-
-Under the assumption that the total number of particles N is sufficiently large, it can also be expressed as
-
-S = -k_B N \sum_k^m p_k*ln(p_k), where m is the total number of distinct state a particle can be in.
-
-If we consider the behaviour of a single particle, it will try to spend more time on the most probably state, but everyone 
 
  
