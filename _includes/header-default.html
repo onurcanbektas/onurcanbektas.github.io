@@ -10,20 +10,16 @@
         </h1>
 
         <div class="icons-home">
-            <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
+            <a aria-label="Send email" title="don't send me an e-mail" href="mailto:{{site.email}}">
                 <svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg>
             </a>
 
-            <a aria-label="mathSE" title="ResearchGate Profile" target="_blank" href="https://math.stackexchange.com/users/279869/onurcanbektas">
+            <a aria-label="mathSE" title="math.SE profile" target="_blank" href="https://math.stackexchange.com/users/279869/onurcanbektas">
                 <svg class="icon icon-mathSE"><use xlink:href="#icon-mathSE"></use></svg>
             </a>
 
-            <a aria-label="ResearchGate" title="ResearchGate Profile" target="_blank" href="https://www.researchgate.net/profile/Onurcan_Bektas">
-                <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
-            </a>
-
-            <a aria-label="Mathoverflow" title="Sure!" target="_blank" href="https://mathoverflow.net/users/90586/onurcanbektas">
-                <svg class="icon icon-mathoverflow"><use xlink:href="#icon-mathoverflow"></use></svg>
+            <a aria-label="ORCID" title="ORCID" target="_blank" href="https://orcid.org/0000-0001-6141-4969">
+                <svg class="icon icon-orcid2"><use xlink:href="#icon-orcid2"></use></svg>
             </a>
             
             <a aria-label="My LinkedIn" title="Show my linkedin profile" target="_blank" href="https://www.linkedin.com/in/{{site.linkedin_public_url}}">
@@ -34,13 +30,13 @@
                 <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
             </a>
 
-            <a aria-label="My Github" title="Show my projects" target="_blank" href="https://github.com/{{site.github_username}}">
+<!--              <a aria-label="My Github" title="Show my projects" target="_blank" href="https://github.com/{{site.github_username}}">
                 <svg class="icon icon-github-alt"><use xlink:href="#icon-github-alt"></use></svg>
             </a>
 
-            <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+          <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
                 <svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg>
-            </a>
+            </a> -->
         </div>
 
         <ul class="recent">
@@ -54,7 +50,7 @@
               {% endfor %}
         </ul>
 
-        <ul class="recent">
+ <!--       <ul class="recent">
             <p>Recent projects:</p>
              {% for project in site.projects limit:3%}
                 <li>
@@ -63,7 +59,7 @@
                     </a>
                 </li>
               {% endfor %}
-        </ul>
+        </ul> -->
 
     </div>
     {% include menu-search.html %}

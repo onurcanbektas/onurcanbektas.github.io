@@ -43,8 +43,8 @@ links:
 
 # projects in header index
 projects:
-  - name: First project
-    url: https://github.com/onurcanbektas/KnightOnline
+  - name: 
+    url: 
 
 # exclude my node related stuff
 exclude: ['package.json', 'src' ,'node_modules']
