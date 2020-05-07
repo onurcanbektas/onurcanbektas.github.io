@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Some OCW lecture suggestions"
+title:  "Some online lecture suggestions"
 image: ''
 date:   2020-05-01 14:25:00 +0100 
 tags:
 - OCW
-description: 'Some OCW lecture suggestions'
+description: 'Some online lecture suggestions'
 published: true
 categories:
 - Suggestions, OCW, lectures
@@ -46,6 +46,21 @@ categories:
 <br>Link: <a href="https://cs50.harvard.edu/college/2020/spring/">See the course content on cs50.harvard.edu</a>
 </p> 
 
+<p>
+<br>Title: Mechanics (undergraduate course)
+<br>Instructor: Dr. Altuğ Özpineci
+<br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20151-Phys109">See the course content on his website</a>
+<br> Other: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20131-Phys109">Also see the same course given one year prior</a>
+</p> 
+
+<p>
+<br>Title: Electromagnetism (undergraduate course)
+<br>Instructor: Dr. Altuğ Özpineci
+<br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20152-Phys110">See the course content on his website</a>
+<br> Other: 
+</p> 
+
+
 ## Somewhat not-that-much clear, but still there are lots of things one can learn
 
 <p>
@@ -85,6 +100,15 @@ categories:
 <br>Instructor: Dr. Altuğ Özpineci
 <br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20162-Phys332">See the course content in his website</a>
 </p>
+
+## Language courses & channels
+
+<p>
+<br>Title: French the natural way
+<br>Instructor: Alice Ayel 
+<br>Link: <a href="https://www.youtube.com/watch?v=DcuVNAnsWZM&list=PLD0666ZhOzwhyOzXQN7lxY8-K_UIRakJL">See her youtube channel</a>
+</p> 
+
 
 <!-- 
 <p>
