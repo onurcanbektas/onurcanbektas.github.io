@@ -40,6 +40,12 @@ categories:
 <br>Link: <a href="http://pirsa.org/11110040/">See the course content on pirsa.org</a>
 </p> 
 
+<p>
+<br>Title: cs50
+<br>Instructor: David J. Malan
+<br>Link: <a href="https://cs50.harvard.edu/college/2020/spring/">See the course content on cs50.harvard.edu</a>
+</p> 
+
 ## Somewhat not-that-much clear, but still there are lots of things one can learn
 
 <p>
