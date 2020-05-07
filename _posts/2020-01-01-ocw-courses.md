@@ -2,7 +2,7 @@
 layout: post
 title:  "Some OCW lecture suggestions"
 image: ''
-date:   2020-05-07 14:25:00 +0100 
+date:   2020-05-01 14:25:00 +0100 
 tags:
 - OCW
 description: 'Some OCW lecture suggestions'
