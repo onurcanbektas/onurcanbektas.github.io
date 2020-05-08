@@ -109,6 +109,12 @@ categories:
 <br>Link: <a href="https://www.youtube.com/watch?v=DcuVNAnsWZM&list=PLD0666ZhOzwhyOzXQN7lxY8-K_UIRakJL">See her youtube channel</a>
 </p> 
 
+<p>
+<br>Title: Easy Languages
+<br>Description: Non-profit project aiming to help people learn languages through authentic street interviews
+<br>Link: <a href="https://www.youtube.com/user/magauchsein/about">See their joint youtube channel</a>
+</p> 
+
 
 <!-- 
 <p>
