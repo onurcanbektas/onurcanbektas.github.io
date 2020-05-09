@@ -11,7 +11,7 @@ categories:
 - Suggestions, OCW, lectures
 ---
 
-<p style="font-size:12pt"> Here are some OCW lectures that I really liked following.</p>
+<p style="font-size:12pt"> Here are some online lectures that I really liked following.</p>
   
 ## Clear, comprensive, intuitive
 
