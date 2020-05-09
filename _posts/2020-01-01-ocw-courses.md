@@ -110,6 +110,12 @@ categories:
 </p> 
 
 <p>
+<br>Title: Coffe Break French/German
+<br>By: coffebreakacademy 
+<br>Link: <a href="https://coffeebreakacademy.com">See their coffe break courses on their website</a>
+</p> 
+
+<p>
 <br>Title: Easy Languages
 <br>Description: Non-profit project aiming to help people learn languages through authentic street interviews
 <br>Link: <a href="https://www.youtube.com/user/magauchsein/about">See their joint youtube channel</a>
