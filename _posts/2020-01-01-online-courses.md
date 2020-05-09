@@ -110,7 +110,7 @@ categories:
 </p> 
 
 <p>
-<br>Title: Coffe Break French/German
+<br>Title: Coffee Break French/German
 <br>By: coffebreakacademy 
 <br>Link: <a href="https://coffeebreakacademy.com">See their coffe break courses on their website</a>
 </p> 
