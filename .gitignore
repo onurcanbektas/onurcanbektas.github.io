@@ -11,3 +11,4 @@ package.json
 Gemfile
 Gemfile.lock
 .jekyll-metadata
+.Rhistory
