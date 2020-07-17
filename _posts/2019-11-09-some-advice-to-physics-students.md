@@ -6,7 +6,7 @@ date:   2019-11-09 04:25:00 +0100
 tags:
 - Suggestions
 description: 'A suggestion to Physics students'
-published: true
+published: false
 categories:
 - Suggestions
 ---

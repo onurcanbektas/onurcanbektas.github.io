@@ -6,7 +6,7 @@ date:   2020-03-19 14:25:00 +0100
 tags:
 - Books
 description: 'When is the whole more than the sum of its parts?'
-published: true
+published: false
 categories:
 - statistical mechanics, nonequilibrium thermodynamics
 ---
