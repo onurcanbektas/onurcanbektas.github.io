@@ -47,6 +47,12 @@ categories:
 </p> 
 
 <p>
+<br>Title: Quantum Physics I 
+<br>Instructor: Dr. Allan Adams
+<br>Link: <a href="https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/">See the course content on ocw.mit.edu</a>
+</p>
+
+<p>
 <br>Title: Mechanics (undergraduate course)
 <br>Instructor: Dr. Altuğ Özpineci
 <br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20151-Phys109">See the course content on his website</a>
@@ -61,7 +67,7 @@ categories:
 </p> 
 
 
-## Somewhat not-that-much clear, but still there are lots of things one can learn
+## Might not be the clearest lectures, but still there are lots of things one can learn
 
 <p>
 <br>Title: Financial theory (undergraduate course)
@@ -69,7 +75,7 @@ categories:
 <br>Link: <a href="https://oyc.yale.edu/economics/econ-251">See the course content on oyc.yale.edu</a>
 </p>
 
-## Haven't looked at it, but hoping that they are good
+## Haven't looked at it, but expectations are high
 
 <p>
 <br>Title: Quantum Mechanics I (graduate course)
@@ -102,6 +108,12 @@ categories:
 </p>
 
 ## Language courses & channels
+
+<p>
+<br>Title: Memrise (an app)
+<br>Instructor: not applicable
+<br>Link: <a href="http://memrise.com">See their website</a>
+</p> 
 
 <p>
 <br>Title: French the natural way
