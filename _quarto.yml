@@ -1,0 +1,21 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: Lumen
+    css: styles.css
+
+editor: visual
+
+website:
+  title: "Home"
+  site-url: https://onurcanbektas.quarto.pub/home/
+  description: "Personal webspage"
+  navbar:
+    right:
+      - about.qmd
+      - projects.qmd
+      - icon: rss
+        href: index.xml
+

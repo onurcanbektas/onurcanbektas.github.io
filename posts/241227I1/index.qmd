@@ -1,0 +1,40 @@
+---
+title: "How to distinguish active systems from non-active systems?"
+description: "A jourmey in to the fluctuation-dissipation theorem"
+author: "Onurcan Bektas"
+date: "2024-12-27"
+categories: [hpc, howto, singularity, docker]
+format: 
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-location: left
+    page-layout: article
+execute:
+    eval: false
+    cache: false
+    code-fold: show 
+    code-tools: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+engine: knitr
+draft: true
+---
+
+## Abstract
+## The FDP for velocity
+
+$$
+B = \gamma k_B T
+$$
+
+the higher the strength of the noise, the more energy the system takes from the heat bath, the higher the friction coefficient has to be in order to dissipate equally high energy to satisfy the detailed balance.
+
+## FDP for position
+$$
+D = \frac{k_B T}{m \gamma}
+$$
+
+The highder the friction coefficient, the less distance the particle can cover through diffusion in a unit amount of time.

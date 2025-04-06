@@ -1,0 +1,20 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: Superhero
+    css: styles.css
+
+editor: visual
+
+website:
+  title: "Home"
+  site-url: https://www.myblogexample.io
+  description: "Random experiments"
+  navbar:
+    right:
+      - about.qmd
+      - icon: rss
+        href: index.xml
+

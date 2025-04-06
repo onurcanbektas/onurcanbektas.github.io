@@ -1,0 +1,13 @@
+---
+title: "Compute two-point correlation function on a ring fast!"
+author: "Onurcan Bektas"
+date: "2024-11-12"
+categories: [experiment, rust]
+draft: true
+---
+
+why should anyone care about correlation functions?
+
+Why ring?
+
+Why fast? what is the state of the art?
