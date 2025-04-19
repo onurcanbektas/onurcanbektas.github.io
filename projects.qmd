@@ -14,3 +14,7 @@ The studying interacting stochastic many-body particle systems analytically is q
 As a result, it is imperative to study such complex systems numerically.
 However, these simulations can take up hours if not days, due to the sheer number of particles that might be needed in the simulations.
 Here, I started implementing one such [codebase in Rust](https://gitlab.com/onurcanbektas/langevin_many_body) that can be extended and optimised for such purposes.
+
+Moreover, I'm now developing a GPU-accelerated version of this codebase in order to simulate 10M particles under a day using Apple GPUs.
+This work is still in progress.
+
