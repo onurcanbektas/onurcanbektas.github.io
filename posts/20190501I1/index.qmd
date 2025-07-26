@@ -1,0 +1,279 @@
+---
+title: "Some of my favorite books"
+description: "Here are some books that I really liked reading"
+author: "Onurcan Bektas"
+date: "2019-01-01"
+categories: [books, recommendations]
+format: 
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-location: left
+    page-layout: article
+execute:
+    eval: false
+    cache: false
+    code-fold: show 
+    code-tools: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+engine: knitr
+draft: false 
+---
+
+(sorry for the not-optimal organisation of this post)
+
+For more books, check out my [Goodreads](https://www.goodreads.com/user/show/92342086-onurcan-bektas) profile.
+
+## Comprehensive scientific books
+
+<p>
+<br>Title: The variational principles of mechanics,
+<br>Author: Lanczos, Cornelius
+<br>Other: Toronto, University of Toronto Press, 1949
+</p>
+
+<p>
+<br>Title: Analysis on manifolds
+<br>Author: James R. Munkres
+<br>Other: Massachusetts ; New York : Addison-Wesley Publishing, 1991
+</p>
+
+<p>
+<br>Title:  Lectures on Phase Transitions and the Renormalisation Group,
+<br>Author: Nigel Goldenfeld,
+<br>Other: CRC Press, 2018
+</p>
+
+<p>
+<br>Title:  Condensed Matter Field Theory,
+<br>Author: A. Altland and B. Simons,
+<br>Other: Cambridge Press, 2010, 2nd ed.
+</p>
+
+<p>
+<br>Title: The Geometry of Physics: An introduction
+<br>Author: Theodore Frankel
+<br>Other: Cambridge University Press, 2011
+</p>
+
+
+<p>
+<br>Title: Theory of functions of a complex variable,
+<br>Author: A.I. Markushevich.
+<br>Other: Englewood Cliffs, N.J., Prentice-Hall 1965
+</p>
+
+<p>
+	<br>Title: Quantum Mechanics vol. 1 & 2
+	<br>Author: Cohen-Tannoudji, C.
+	<br>Other: Wiley; 1st edition (January 8, 1991)
+</p>
+
+<p>
+<br>Title: Advanced mathematical methods for scientists and engineers
+<br>Author: Carl M. Bender
+<br>Other: 1978
+</p>
+
+<p>
+	<br>Title: Modern Thermodynamics: From Heat Engines to Dissipative Structures
+	<br>Author: Kondepudi, D., Prigogine, I.
+	<br>Other: John Wiley & Sons, Second edition.
+</p>
+
+<p>
+<br>Title: Statistical Physics
+<br>Athors: Mandly, F.
+<br>Other: Wiley; 2 edition (May 12, 1988)
+</p>
+
+<p>
+<br>Title: Thermodynamics for modular instruction,
+<br>Author: Richard K. Irey,Ali Ansari, James H. Pohl
+<br>Other: New York, Wiley, 1976. Volume 1-6
+</p>
+
+<p>
+<br>Title: Nonequilibrium Statistical Physics
+<br>Author: Robert Zwanzig
+<br>Other: Oxford University Press, 2001
+</p>
+
+<p>
+<br>Title: A laboratory manual of experiments in physics,
+<br>Athors: Leonard Rose Ingersoll, Miles Jay Martin [and] Theodore Alton Rouse.
+<br>Other: New York, McGraw-Hill, 1953.
+</p>
+
+<p>
+<br>Title: Ultrafast Optics,
+<br>Author: Andrew M. Weiner,
+<br>Other: Wiley, 2009
+</p>
+
+<p>
+<br>Title: An Introduction to Ordinary Differential Equations
+<br>Author: Coddington, Earl, A.
+<br>Other: Englewood Cliffs, N.J.: Prentice-Hall, 1961
+</p>
+
+<p>
+<br>Title: Ordinary differential equations,
+<br>Author: Vladimir I. Arnold
+<br>Other: Berlin : Springer, 2006
+</p>
+
+<p>
+<br>Title: Linear algebra
+<br>Author: Werner Greub.
+<br>Other: New York, Springer-Verlag, c1975.
+</p>
+
+<p>
+<br>Title: Analysis on manifolds
+<br>Author: James R. Munkres
+<br>Other: Addison-Wesley Publishing, 1991
+</p>
+
+
+<p>
+<br>Title: 3D Graphic For Game Programming
+<br>Author: Junghyun Han
+<br>Other: Boca Raton : Chapman and Hall/CRC, 2011
+</p>
+
+<p>
+<br>Title: Programming with Objects: A Comparative Presentation of Object Oriented Programming with C++ and Java
+<br>Author: Avinash Kak
+<br>Other: Wiley-IEEE Press, 2003
+</p>
+
+<p>
+<br>Title: Advance Linux Programming
+<br>Author: Mark Mitchell, Jeffrey Oldham,
+<br>Other: David Dwyer, 2001
+</p>
+
+<p>
+<br>Title: Pattern Recognition and Machine Learning,
+<br>Author: Christopher Bishop,
+<br>Other: Springer, 2006
+</p>
+
+<p>
+<br>Title: An introduction to statistical learning : with applications in R
+<br>Author: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+<br>Other: New York, Springer, 8th edition, 2017
+</p>
+
+
+<p>
+<br>Title: Fundamentals of Data Visualization
+<br>Author: Claus O. Wilke
+<br>Link: <a href="https://clauswilke.com/dataviz/">The book is open source</a>
+</p>
+
+<p>
+<br>Title: Line by Line: How to Edit Your Own Writing,
+<br>Author: Claire Kehrwald Cook,
+<br>Other: Houghton Mifflin Company, 1986
+</p>
+
+<p>
+<br>Title: Mathematica Programming: An Advanced Introduction,
+<br>Author: Leonid Shifrin,
+<br>Link: <a href="http://www.mathprogramming-intro.org/download/MathProgrammingIntro.pdf">The book is open source</a>
+</p>
+
+<p>
+<br>Title: Statistical Rethinking: A Bayesian Course with Examples in R and Stan
+<br>Author: Richard McElreath
+<br>Link: <a href="https://xcelab.net/rm/statistical-rethinking/">Book and the related courses' website</a>
+</p>
+
+<p>
+<br>Title: Statistical Mechanics of Lattice Systems: A Concrete Mathematical Introduction
+<br>Author: Friedli, S. and Velenik, Y.
+<br>Link: <a href="https://www.unige.ch/math/folks/velenik/smbook/index.html">The book's webpage</a>
+</p>
+
+## Introductory scientific books
+
+<p>
+<br>Title: Introductory mathematical statistics; principles and methods
+<br>Author: Kreyszig, E.
+<br>Other: New York, Wiley, 1970.
+</p>
+
+<p>
+<br>Title: Differential topology with a view to applications
+<br>Author: D. R. J. Chillingworth.
+<br>Other: San Francisco : Fearon Publishers, c1976.
+</p>
+
+<p>
+<br>Title: The theory of functions
+<br>Author: E. C. Titchmarsh.
+<br>Other: London: Oxford university press, 1939.
+</p>
+
+<p>
+<br>Title: Fundamental concepts of abstract algebra,
+<br>Author: Gertrude Ehrlich.
+<br>Other: Mineola, N.Y. : Dover Publications, 2011.
+</p>
+
+## Intuitive, nice-to-read books
+
+<p>
+<br>Title: Visual complex analysis,
+<br>Author: Tristan Needham.
+<br>Other: Oxford: Clarendon Press ; New York : Oxford University Press, 1997.
+</p>
+
+<p>
+<br>Title: Essays in the History of Mechanics,
+<br>Author: Clifford A. Truesdell,
+<br>Other: Springer-Verlag, 1968.
+<br>Note: the essay titled "A program toward rediscovering the rational mechanics of the age of reason" is a good one!
+</p>
+
+## Books related to the freshman-year courses
+
+<p>
+<br>Title: Proofs and fundamentals : a first course in abstract mathematics
+<br>Author: Ethan D. Bloch
+<br>Other: Boston, Birkhèauser, 2000
+</p>
+
+<p>
+<br>Title: Calculus
+<br>Author: Tom M. Apostol
+<br>Other: John Wiley, [1967-69], v1 & v2
+</p>
+
+<p>
+<br>Title: Calculus
+<br>Author: Michael Spivak
+<br>Other: Publish or Perish, c2008
+</p>
+
+<p>
+<br>Title: Topology
+<br>Author: James R. Munkres
+<br>Other: Upper Saddle River, NJ Prentice Hall, Inc. c2000
+</p>
+
+## Non-technical books
+
+<p>
+<br>Title: The First Three Minutes
+<br>Author: Steven Weinberg
+<br>Other: 1977
+</p>
+
+
+<p style="font-size:12pt">## Also check out <a href="https://www.goodreads.com/user/show/92342086-onurcan-bektas">my goodreads profile</a> for some other goodies</p>

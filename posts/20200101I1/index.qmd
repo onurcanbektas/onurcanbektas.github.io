@@ -1,0 +1,111 @@
+---
+title: "Some of my favorite online-courses"
+description: "Here are some online lectures that I really liked following."
+author: "Onurcan Bektas"
+date: "2020-05-01"
+categories: [ocw, recommendations]
+format: 
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-location: left
+    page-layout: article
+execute:
+    eval: false
+    cache: false
+    code-fold: show 
+    code-tools: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+engine: knitr
+draft: false 
+---
+
+(sorry for the not-optimal organisation of this post)
+
+## Clear, comprensive, intuitive
+
+<p>
+<br>Title: Quantum Mechanics I (graduate course)
+<br>Instructor: Dr. Altuğ Özpineci
+<br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20162-Phys507">See the course content in his website</a>
+</p>
+
+<p>
+<br>Title: Principles of Evolution, Ecology and Behavior
+<br>Instructor: Dr. Stephen C. Stearns
+<br>Link: <a href="https://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122">See the course content on oyc.yale.edu</a>
+</p>
+
+<p>
+<br>Title: Principles of Microeconomics
+<br>Instructor: Dr. Jonathan Gruber
+<br>Link: <a href="https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/syllabus/">See the course content on ocw.mit.edu</a>
+</p>
+
+<p>
+<br>Title: Perturbation Theory and Asymtotic Series
+<br>Instructor: Dr. Carl Bender
+<br>Link: <a href="http://pirsa.org/11110040/">See the course content on pirsa.org</a>
+</p> 
+
+<p>
+<br>Title: cs50
+<br>Instructor: David J. Malan
+<br>Link: <a href="https://cs50.harvard.edu/college/2020/spring/">See the course content on cs50.harvard.edu</a>
+</p> 
+
+<p>
+<br>Title: Quantum Physics I 
+<br>Instructor: Dr. Allan Adams
+<br>Link: <a href="https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/">See the course content on ocw.mit.edu</a>
+</p>
+
+<p>
+<br>Title: Mechanics (undergraduate course)
+<br>Instructor: Dr. Altuğ Özpineci
+<br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20151-Phys109">See the course content on his website</a>
+<br> Other: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20131-Phys109">Also see the same course given one year prior</a>
+</p> 
+
+<p>
+<br>Title: Electromagnetism (undergraduate course)
+<br>Instructor: Dr. Altuğ Özpineci
+<br>Link: <a href="http://144.122.31.139/~ozpineci/Courses/index.php?course=20152-Phys110">See the course content on his website</a>
+<br> Other: 
+</p> 
+
+<p>
+<br>Title: Financial theory (undergraduate course)
+<br>Instructor: Dr. John Geanakoplos
+<br>Link: <a href="https://oyc.yale.edu/economics/econ-251">See the course content on oyc.yale.edu</a>
+</p>
+
+## Language courses & channels
+
+<p>
+<br>Title: Memrise (an app)
+<br>Instructor: not applicable
+<br>Link: <a href="http://memrise.com">See their website</a>
+</p> 
+
+<p>
+<br>Title: French the natural way
+<br>Instructor: Alice Ayel 
+<br>Link: <a href="https://www.youtube.com/watch?v=DcuVNAnsWZM&list=PLD0666ZhOzwhyOzXQN7lxY8-K_UIRakJL">See her youtube channel</a>
+</p> 
+
+<p>
+<br>Title: Coffee Break French/German
+<br>By: coffebreakacademy 
+<br>Link: <a href="https://coffeebreakacademy.com">See their coffe break courses on their website</a>
+</p> 
+
+<p>
+<br>Title: Easy Languages
+<br>Description: Non-profit project aiming to help people learn languages through authentic street interviews
+<br>Link: <a href="https://www.youtube.com/user/magauchsein/about">See their joint youtube channel</a>
+</p> 
+

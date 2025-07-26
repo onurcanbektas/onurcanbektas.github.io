@@ -4,28 +4,91 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! My name is Onurcan. I am currently a PhD candiate at the Faculty of Physics at Ludwig-Maximilians-Universität München, where I work in the group of Prof. Steffen Rulands. Before that, I was a Master student in the Max Planck School Matter to Life. Before that, I was a Bachelor student in the Department of Physics and Department of Mathematics at the Middle East Technical University, Turkey.\nMy current research has mainly two branches: one branch is to understand the biophysical mechanism of ageing and rejuvenation, the second branch is to study the emergent phenomena in stochastic many-body particle systems driven by reinforcement learning."
+    "text": "Hi! My name is Onurcan. I am currently a PhD candiate at the Faculty of Physics at Ludwig-Maximilians-Universität München, where I work in the group of Prof. Steffen Rulands. Before that, I was a Master student in the Max Planck School Matter to Life. Before that, I was a Bachelor student in the Department of Physics and Department of Mathematics at the Middle East Technical University, Turkey.\nMy current research has mainly two branches: one branch is to understand the biophysical mechanism of ageing and rejuvenation, the second branch is to understand the emergent phenomena intelligent robotic matter.\nYou can contact me at Onurcan dot Bektas snail lmu dot de."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Weekend Projects",
     "section": "",
     "text": "R language, however great, is sometimes too slow to handle calculations done on millions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of such functions in Rust and made it available as a R package. The package itself mostly contains connected correlation functions that can use different metrics. Please see the README for how to use it, and the man pages for more details on the implemented functions."
   },
   {
     "objectID": "projects.html#fast-utility-functions",
     "href": "projects.html#fast-utility-functions",
-    "title": "Projects",
+    "title": "Weekend Projects",
     "section": "",
     "text": "R language, however great, is sometimes too slow to handle calculations done on millions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of such functions in Rust and made it available as a R package. The package itself mostly contains connected correlation functions that can use different metrics. Please see the README for how to use it, and the man pages for more details on the implemented functions."
   },
   {
     "objectID": "projects.html#d-interacting-stochastic-many-body-particle-system",
     "href": "projects.html#d-interacting-stochastic-many-body-particle-system",
-    "title": "Projects",
+    "title": "Weekend Projects",
     "section": "1D interacting stochastic many-body particle system",
-    "text": "1D interacting stochastic many-body particle system\nThe studying interacting stochastic many-body particle systems analytically is quite limited to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up hours if not days, due to the sheer number of particles that might be needed in the simulations. Here, I started implementing one such codebase in Rust that can be extended and optimised for such purposes."
+    "text": "1D interacting stochastic many-body particle system\nThe studying interacting stochastic many-body particle systems analytically is quite limited to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up hours if not days, due to the sheer number of particles that might be needed in the simulations. Here, I started implementing one such codebase in Rust that can be extended and optimised for such purposes.\nMoreover, I’m now developing a GPU-accelerated version of this codebase in order to simulate 10M particles under a day using Apple GPUs. This work is still in progress."
+  },
+  {
+    "objectID": "posts/20190501I1/index.html",
+    "href": "posts/20190501I1/index.html",
+    "title": "Some of my favorite books",
+    "section": "",
+    "text": "(sorry for the not-optimal organisation of this post)\nFor more books, check out my Goodreads profile."
+  },
+  {
+    "objectID": "posts/20190501I1/index.html#comprehensive-scientific-books",
+    "href": "posts/20190501I1/index.html#comprehensive-scientific-books",
+    "title": "Some of my favorite books",
+    "section": "Comprehensive scientific books",
+    "text": "Comprehensive scientific books\n\nTitle: The variational principles of mechanics, Author: Lanczos, Cornelius Other: Toronto, University of Toronto Press, 1949\n\n\nTitle: Analysis on manifolds Author: James R. Munkres Other: Massachusetts ; New York : Addison-Wesley Publishing, 1991\n\n\nTitle: Lectures on Phase Transitions and the Renormalisation Group, Author: Nigel Goldenfeld, Other: CRC Press, 2018\n\n\nTitle: Condensed Matter Field Theory, Author: A. Altland and B. Simons, Other: Cambridge Press, 2010, 2nd ed.\n\n\nTitle: The Geometry of Physics: An introduction Author: Theodore Frankel Other: Cambridge University Press, 2011\n\n\nTitle: Theory of functions of a complex variable, Author: A.I. Markushevich. Other: Englewood Cliffs, N.J., Prentice-Hall 1965\n\n\nTitle: Quantum Mechanics vol. 1 & 2 Author: Cohen-Tannoudji, C. Other: Wiley; 1st edition (January 8, 1991)\n\n\nTitle: Advanced mathematical methods for scientists and engineers Author: Carl M. Bender Other: 1978\n\n\nTitle: Modern Thermodynamics: From Heat Engines to Dissipative Structures Author: Kondepudi, D., Prigogine, I. Other: John Wiley & Sons, Second edition.\n\n\nTitle: Statistical Physics Athors: Mandly, F. Other: Wiley; 2 edition (May 12, 1988)\n\n\nTitle: Thermodynamics for modular instruction, Author: Richard K. Irey,Ali Ansari, James H. Pohl Other: New York, Wiley, 1976. Volume 1-6\n\n\nTitle: Nonequilibrium Statistical Physics Author: Robert Zwanzig Other: Oxford University Press, 2001\n\n\nTitle: A laboratory manual of experiments in physics, Athors: Leonard Rose Ingersoll, Miles Jay Martin [and] Theodore Alton Rouse. Other: New York, McGraw-Hill, 1953.\n\n\nTitle: Ultrafast Optics, Author: Andrew M. Weiner, Other: Wiley, 2009\n\n\nTitle: An Introduction to Ordinary Differential Equations Author: Coddington, Earl, A. Other: Englewood Cliffs, N.J.: Prentice-Hall, 1961\n\n\nTitle: Ordinary differential equations, Author: Vladimir I. Arnold Other: Berlin : Springer, 2006\n\n\nTitle: Linear algebra Author: Werner Greub. Other: New York, Springer-Verlag, c1975.\n\n\nTitle: Analysis on manifolds Author: James R. Munkres Other: Addison-Wesley Publishing, 1991\n\n\nTitle: 3D Graphic For Game Programming Author: Junghyun Han Other: Boca Raton : Chapman and Hall/CRC, 2011\n\n\nTitle: Programming with Objects: A Comparative Presentation of Object Oriented Programming with C++ and Java Author: Avinash Kak Other: Wiley-IEEE Press, 2003\n\n\nTitle: Advance Linux Programming Author: Mark Mitchell, Jeffrey Oldham, Other: David Dwyer, 2001\n\n\nTitle: Pattern Recognition and Machine Learning, Author: Christopher Bishop, Other: Springer, 2006\n\n\nTitle: An introduction to statistical learning : with applications in R Author: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani Other: New York, Springer, 8th edition, 2017\n\n\nTitle: Fundamentals of Data Visualization Author: Claus O. Wilke Link: The book is open source\n\n\nTitle: Line by Line: How to Edit Your Own Writing, Author: Claire Kehrwald Cook, Other: Houghton Mifflin Company, 1986\n\n\nTitle: Mathematica Programming: An Advanced Introduction, Author: Leonid Shifrin, Link: The book is open source\n\n\nTitle: Statistical Rethinking: A Bayesian Course with Examples in R and Stan Author: Richard McElreath Link: Book and the related courses’ website\n\n\nTitle: Statistical Mechanics of Lattice Systems: A Concrete Mathematical Introduction Author: Friedli, S. and Velenik, Y. Link: The book’s webpage"
+  },
+  {
+    "objectID": "posts/20190501I1/index.html#introductory-scientific-books",
+    "href": "posts/20190501I1/index.html#introductory-scientific-books",
+    "title": "Some of my favorite books",
+    "section": "Introductory scientific books",
+    "text": "Introductory scientific books\n\nTitle: Introductory mathematical statistics; principles and methods Author: Kreyszig, E. Other: New York, Wiley, 1970.\n\n\nTitle: Differential topology with a view to applications Author: D. R. J. Chillingworth. Other: San Francisco : Fearon Publishers, c1976.\n\n\nTitle: The theory of functions Author: E. C. Titchmarsh. Other: London: Oxford university press, 1939.\n\n\nTitle: Fundamental concepts of abstract algebra, Author: Gertrude Ehrlich. Other: Mineola, N.Y. : Dover Publications, 2011."
+  },
+  {
+    "objectID": "posts/20190501I1/index.html#intuitive-nice-to-read-books",
+    "href": "posts/20190501I1/index.html#intuitive-nice-to-read-books",
+    "title": "Some of my favorite books",
+    "section": "Intuitive, nice-to-read books",
+    "text": "Intuitive, nice-to-read books\n\nTitle: Visual complex analysis, Author: Tristan Needham. Other: Oxford: Clarendon Press ; New York : Oxford University Press, 1997.\n\n\nTitle: Essays in the History of Mechanics, Author: Clifford A. Truesdell, Other: Springer-Verlag, 1968. Note: the essay titled “A program toward rediscovering the rational mechanics of the age of reason” is a good one!"
+  },
+  {
+    "objectID": "posts/20190501I1/index.html#books-related-to-the-freshman-year-courses",
+    "href": "posts/20190501I1/index.html#books-related-to-the-freshman-year-courses",
+    "title": "Some of my favorite books",
+    "section": "Books related to the freshman-year courses",
+    "text": "Books related to the freshman-year courses\n\nTitle: Proofs and fundamentals : a first course in abstract mathematics Author: Ethan D. Bloch Other: Boston, Birkhauser, 2000\n\n\nTitle: Calculus Author: Tom M. Apostol Other: John Wiley, [1967-69], v1 & v2\n\n\nTitle: Calculus Author: Michael Spivak Other: Publish or Perish, c2008\n\n\nTitle: Topology Author: James R. Munkres Other: Upper Saddle River, NJ Prentice Hall, Inc. c2000"
+  },
+  {
+    "objectID": "posts/20190501I1/index.html#non-technical-books",
+    "href": "posts/20190501I1/index.html#non-technical-books",
+    "title": "Some of my favorite books",
+    "section": "Non-technical books",
+    "text": "Non-technical books\n\nTitle: The First Three Minutes Author: Steven Weinberg Other: 1977\n\n\n## Also check out my goodreads profile for some other goodies"
+  },
+  {
+    "objectID": "posts/20200101I1/index.html",
+    "href": "posts/20200101I1/index.html",
+    "title": "Some of my favorite online-courses",
+    "section": "",
+    "text": "(sorry for the not-optimal organisation of this post)"
+  },
+  {
+    "objectID": "posts/20200101I1/index.html#clear-comprensive-intuitive",
+    "href": "posts/20200101I1/index.html#clear-comprensive-intuitive",
+    "title": "Some of my favorite online-courses",
+    "section": "Clear, comprensive, intuitive",
+    "text": "Clear, comprensive, intuitive\n\nTitle: Quantum Mechanics I (graduate course) Instructor: Dr. Altu&lt;9f&gt; &lt;96&gt;zpineci Link: See the course content in his website\n\n\nTitle: Principles of Evolution, Ecology and Behavior Instructor: Dr. Stephen C. Stearns Link: See the course content on oyc.yale.edu\n\n\nTitle: Principles of Microeconomics Instructor: Dr. Jonathan Gruber Link: See the course content on ocw.mit.edu\n\n\nTitle: Perturbation Theory and Asymtotic Series Instructor: Dr. Carl Bender Link: See the course content on pirsa.org\n\n\nTitle: cs50 Instructor: David J. Malan Link: See the course content on cs50.harvard.edu\n\n\nTitle: Quantum Physics I Instructor: Dr. Allan Adams Link: See the course content on ocw.mit.edu\n\n\nTitle: Mechanics (undergraduate course) Instructor: Dr. Altu&lt;9f&gt; &lt;96&gt;zpineci Link: See the course content on his website  Other: Also see the same course given one year prior\n\n\nTitle: Electromagnetism (undergraduate course) Instructor: Dr. Altu&lt;9f&gt; &lt;96&gt;zpineci Link: See the course content on his website  Other:\n\n\nTitle: Financial theory (undergraduate course) Instructor: Dr. John Geanakoplos Link: See the course content on oyc.yale.edu"
+  },
+  {
+    "objectID": "posts/20200101I1/index.html#language-courses-channels",
+    "href": "posts/20200101I1/index.html#language-courses-channels",
+    "title": "Some of my favorite online-courses",
+    "section": "Language courses & channels",
+    "text": "Language courses & channels\n\nTitle: Memrise (an app) Instructor: not applicable Link: See their website\n\n\nTitle: French the natural way Instructor: Alice Ayel Link: See her youtube channel\n\n\nTitle: Coffee Break French/German By: coffebreakacademy Link: See their coffe break courses on their website\n\n\nTitle: Easy Languages Description: Non-profit project aiming to help people learn languages through authentic street interviews Link: See their joint youtube channel"
   },
   {
     "objectID": "posts/241201I1/index.html",
@@ -39,6 +102,6 @@
     "href": "index.html",
     "title": "Onurcan Bektas’s Webpage",
     "section": "",
-    "text": "How to create a Docker container and use with Singularity/Apptainer in HPC environments\n\n\n\n\n\n\n\nhpc\n\n\nhowto\n\n\nsingularity\n\n\ndocker\n\n\n\n\nA brief description of my pipeline\n\n\n\n\n\n\nDec 1, 2024\n\n\nOnurcan Bektas\n\n\n\n\n\n\nNo matching items"
+    "text": "How to create a Docker container and use with Singularity/Apptainer in HPC environments\n\n\n\n\n\n\n\nhpc\n\n\nhowto\n\n\nsingularity\n\n\ndocker\n\n\n\n\nA brief description of my pipeline\n\n\n\n\n\n\nDec 1, 2024\n\n\nOnurcan Bektas\n\n\n\n\n\n\n  \n\n\n\n\nSome of my favorite online-courses\n\n\n\n\n\n\n\nocw\n\n\nrecommendations\n\n\n\n\nHere are some online lectures that I really liked following.\n\n\n\n\n\n\nMay 1, 2020\n\n\nOnurcan Bektas\n\n\n\n\n\n\n  \n\n\n\n\nSome of my favorite books\n\n\n\n\n\n\n\nbooks\n\n\nrecommendations\n\n\n\n\nHere are some books that I really liked reading\n\n\n\n\n\n\nJan 1, 2019\n\n\nOnurcan Bektas\n\n\n\n\n\n\nNo matching items"
   }
 ]
