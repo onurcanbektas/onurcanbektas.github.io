@@ -20,7 +20,7 @@ execute:
     code-summary: "Show the code"
     code-overflow: wrap
 engine: knitr
-draft: false 
+draft: true
 ---
 
 (sorry for the not-optimal organisation of this post)

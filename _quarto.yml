@@ -3,7 +3,7 @@ project:
 
 format:
   html:
-    theme: Lumen
+    theme: [Lumen, theme.scss]
     css: styles.css
 
 editor: visual
@@ -15,7 +15,6 @@ website:
   navbar:
     right:
       - about.qmd
-      - projects.qmd
-      - icon: rss
-        href: index.xml
+      - research_projects.qmd
+      - side_projects.qmd
 

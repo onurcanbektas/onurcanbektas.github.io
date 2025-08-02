@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://onurcanbektas.quarto.pub/home/research_projects.html</loc>
+    <lastmod>2025-08-02T08:16:16.860Z</lastmod>
+  </url>
+  <url>
     <loc>https://onurcanbektas.quarto.pub/home/about.html</loc>
-    <lastmod>2025-07-26T23:06:39.405Z</lastmod>
-  </url>
-  <url>
-    <loc>https://onurcanbektas.quarto.pub/home/projects.html</loc>
-    <lastmod>2025-07-26T23:06:38.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://onurcanbektas.quarto.pub/home/posts/20190501I1/index.html</loc>
-    <lastmod>2025-07-26T23:06:32.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://onurcanbektas.quarto.pub/home/posts/20200101I1/index.html</loc>
-    <lastmod>2025-07-26T23:06:30.358Z</lastmod>
+    <lastmod>2025-08-02T06:36:20.448Z</lastmod>
   </url>
   <url>
     <loc>https://onurcanbektas.quarto.pub/home/posts/241201I1/index.html</loc>
-    <lastmod>2025-07-26T23:06:35.488Z</lastmod>
+    <lastmod>2024-12-08T12:54:21.603Z</lastmod>
   </url>
   <url>
     <loc>https://onurcanbektas.quarto.pub/home/index.html</loc>
-    <lastmod>2025-07-26T23:06:39.068Z</lastmod>
+    <lastmod>2025-08-02T06:39:15.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://onurcanbektas.quarto.pub/home/side_projects.html</loc>
+    <lastmod>2025-08-02T07:51:15.745Z</lastmod>
   </url>
 </urlset>

@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "research_projects.html",
+    "href": "research_projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "Current artificial intelligence systems show near-human-level capabilities when deployed in isolation. Systems of a few collaborating intelligent agents are being engineered to perform tasks collectively. This raises the question of whether robotic matter, where many learning and intelligent agents interact, shows emergence of collective behaviour. And if so, which kind of phenomena would such systems exhibit? Here, we study a paradigmatic model for robotic matter: a stochastic many-particle system in which each particle is endowed with a deep neural network that predicts its transitions based on the particles’ environments. For a one-dimensional model, we show that robotic matter exhibits complex emergent phenomena, including transitions between long-lived learning regimes, the emergence of particle species, and frustration. We also find a density-dependent phase transition with signatures of criticality. Using active matter theory, we show that this phase transition is a consequence of self-organisation mediated by emergent inter-particle interactions. Our simple model captures key features of more complex forms of robotic systems.\n\nContributions: Conceptualisation, numerical simulations, data analysis, writing of manuscript\nPre-print: arxiv: 2507.22148"
+  },
+  {
+    "objectID": "research_projects.html#emergent-phenomena-in-intelligent-robotic-matter",
+    "href": "research_projects.html#emergent-phenomena-in-intelligent-robotic-matter",
+    "title": "Research",
+    "section": "",
+    "text": "Current artificial intelligence systems show near-human-level capabilities when deployed in isolation. Systems of a few collaborating intelligent agents are being engineered to perform tasks collectively. This raises the question of whether robotic matter, where many learning and intelligent agents interact, shows emergence of collective behaviour. And if so, which kind of phenomena would such systems exhibit? Here, we study a paradigmatic model for robotic matter: a stochastic many-particle system in which each particle is endowed with a deep neural network that predicts its transitions based on the particles’ environments. For a one-dimensional model, we show that robotic matter exhibits complex emergent phenomena, including transitions between long-lived learning regimes, the emergence of particle species, and frustration. We also find a density-dependent phase transition with signatures of criticality. Using active matter theory, we show that this phase transition is a consequence of self-organisation mediated by emergent inter-particle interactions. Our simple model captures key features of more complex forms of robotic systems.\n\nContributions: Conceptualisation, numerical simulations, data analysis, writing of manuscript\nPre-print: arxiv: 2507.22148"
+  },
+  {
+    "objectID": "research_projects.html#smart-microfluidic-chips",
+    "href": "research_projects.html#smart-microfluidic-chips",
+    "title": "Research",
+    "section": "“Smart” microfluidic chips",
+    "text": "“Smart” microfluidic chips\nFrom the vasculature of animals to the porous media making up batteries, the core task of flow networks is to transport solutes and perfuse all cells or media equally with resources. Yet, living flow networks have a key advantage over porous media: they are adaptive and self-organize their geometry for homogeneous perfusion throughout the network. Here, we show that also artificial flow networks can self-organize toward homogeneous perfusion by the versatile adaption of controlled erosion. Flowing a pulse of cleaving enzyme through a network patterned into an erodible hydrogel, with initial channels disparate in width, we observe a homogenization in channel resistances. Experimental observations are matched with numerical simulations of the diffusion-advection-sorption dynamics of an eroding enzyme within a network. Analyzing transport dynamics theoretically, we show that homogenization only occurs if the pulse of the eroding enzyme lasts longer than the time it takes any channel to equilibrate to the pulse concentration. The equilibration time scale derived analytically is in agreement with simulations. Lastly, we show both numerically and experimentally that erosion leads to the homogenization of complex networks containing loops. Erosion being an omnipresent reaction, our results pave the way for a very versatile self-organized increase in the performance of porous media.\n\nContributions: Developed the experimental protocol\nPre-print: arXiv: 2410.19089"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,101 +28,45 @@
     "text": "Hi! My name is Onurcan. I am currently a PhD candiate at the Faculty of Physics at Ludwig-Maximilians-Universität München, where I work in the group of Prof. Steffen Rulands. Before that, I was a Master student in the Max Planck School Matter to Life. Before that, I was a Bachelor student in the Department of Physics and Department of Mathematics at the Middle East Technical University, Turkey.\nMy current research has mainly two branches: one branch is to understand the biophysical mechanism of ageing and rejuvenation, the second branch is to understand the emergent phenomena intelligent robotic matter.\nYou can contact me at Onurcan dot Bektas snail lmu dot de."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Weekend Projects",
-    "section": "",
-    "text": "R language, however great, is sometimes too slow to handle calculations done on millions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of such functions in Rust and made it available as a R package. The package itself mostly contains connected correlation functions that can use different metrics. Please see the README for how to use it, and the man pages for more details on the implemented functions."
-  },
-  {
-    "objectID": "projects.html#fast-utility-functions",
-    "href": "projects.html#fast-utility-functions",
-    "title": "Weekend Projects",
-    "section": "",
-    "text": "R language, however great, is sometimes too slow to handle calculations done on millions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of such functions in Rust and made it available as a R package. The package itself mostly contains connected correlation functions that can use different metrics. Please see the README for how to use it, and the man pages for more details on the implemented functions."
-  },
-  {
-    "objectID": "projects.html#d-interacting-stochastic-many-body-particle-system",
-    "href": "projects.html#d-interacting-stochastic-many-body-particle-system",
-    "title": "Weekend Projects",
-    "section": "1D interacting stochastic many-body particle system",
-    "text": "1D interacting stochastic many-body particle system\nThe studying interacting stochastic many-body particle systems analytically is quite limited to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up hours if not days, due to the sheer number of particles that might be needed in the simulations. Here, I started implementing one such codebase in Rust that can be extended and optimised for such purposes.\nMoreover, I’m now developing a GPU-accelerated version of this codebase in order to simulate 10M particles under a day using Apple GPUs. This work is still in progress."
-  },
-  {
-    "objectID": "posts/20190501I1/index.html",
-    "href": "posts/20190501I1/index.html",
-    "title": "Some of my favorite books",
-    "section": "",
-    "text": "(sorry for the not-optimal organisation of this post)\nFor more books, check out my Goodreads profile."
-  },
-  {
-    "objectID": "posts/20190501I1/index.html#comprehensive-scientific-books",
-    "href": "posts/20190501I1/index.html#comprehensive-scientific-books",
-    "title": "Some of my favorite books",
-    "section": "Comprehensive scientific books",
-    "text": "Comprehensive scientific books\n\nTitle: The variational principles of mechanics, Author: Lanczos, Cornelius Other: Toronto, University of Toronto Press, 1949\n\n\nTitle: Analysis on manifolds Author: James R. Munkres Other: Massachusetts ; New York : Addison-Wesley Publishing, 1991\n\n\nTitle: Lectures on Phase Transitions and the Renormalisation Group, Author: Nigel Goldenfeld, Other: CRC Press, 2018\n\n\nTitle: Condensed Matter Field Theory, Author: A. Altland and B. Simons, Other: Cambridge Press, 2010, 2nd ed.\n\n\nTitle: The Geometry of Physics: An introduction Author: Theodore Frankel Other: Cambridge University Press, 2011\n\n\nTitle: Theory of functions of a complex variable, Author: A.I. Markushevich. Other: Englewood Cliffs, N.J., Prentice-Hall 1965\n\n\nTitle: Quantum Mechanics vol. 1 & 2 Author: Cohen-Tannoudji, C. Other: Wiley; 1st edition (January 8, 1991)\n\n\nTitle: Advanced mathematical methods for scientists and engineers Author: Carl M. Bender Other: 1978\n\n\nTitle: Modern Thermodynamics: From Heat Engines to Dissipative Structures Author: Kondepudi, D., Prigogine, I. Other: John Wiley & Sons, Second edition.\n\n\nTitle: Statistical Physics Athors: Mandly, F. Other: Wiley; 2 edition (May 12, 1988)\n\n\nTitle: Thermodynamics for modular instruction, Author: Richard K. Irey,Ali Ansari, James H. Pohl Other: New York, Wiley, 1976. Volume 1-6\n\n\nTitle: Nonequilibrium Statistical Physics Author: Robert Zwanzig Other: Oxford University Press, 2001\n\n\nTitle: A laboratory manual of experiments in physics, Athors: Leonard Rose Ingersoll, Miles Jay Martin [and] Theodore Alton Rouse. Other: New York, McGraw-Hill, 1953.\n\n\nTitle: Ultrafast Optics, Author: Andrew M. Weiner, Other: Wiley, 2009\n\n\nTitle: An Introduction to Ordinary Differential Equations Author: Coddington, Earl, A. Other: Englewood Cliffs, N.J.: Prentice-Hall, 1961\n\n\nTitle: Ordinary differential equations, Author: Vladimir I. Arnold Other: Berlin : Springer, 2006\n\n\nTitle: Linear algebra Author: Werner Greub. Other: New York, Springer-Verlag, c1975.\n\n\nTitle: Analysis on manifolds Author: James R. Munkres Other: Addison-Wesley Publishing, 1991\n\n\nTitle: 3D Graphic For Game Programming Author: Junghyun Han Other: Boca Raton : Chapman and Hall/CRC, 2011\n\n\nTitle: Programming with Objects: A Comparative Presentation of Object Oriented Programming with C++ and Java Author: Avinash Kak Other: Wiley-IEEE Press, 2003\n\n\nTitle: Advance Linux Programming Author: Mark Mitchell, Jeffrey Oldham, Other: David Dwyer, 2001\n\n\nTitle: Pattern Recognition and Machine Learning, Author: Christopher Bishop, Other: Springer, 2006\n\n\nTitle: An introduction to statistical learning : with applications in R Author: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani Other: New York, Springer, 8th edition, 2017\n\n\nTitle: Fundamentals of Data Visualization Author: Claus O. Wilke Link: The book is open source\n\n\nTitle: Line by Line: How to Edit Your Own Writing, Author: Claire Kehrwald Cook, Other: Houghton Mifflin Company, 1986\n\n\nTitle: Mathematica Programming: An Advanced Introduction, Author: Leonid Shifrin, Link: The book is open source\n\n\nTitle: Statistical Rethinking: A Bayesian Course with Examples in R and Stan Author: Richard McElreath Link: Book and the related courses’ website\n\n\nTitle: Statistical Mechanics of Lattice Systems: A Concrete Mathematical Introduction Author: Friedli, S. and Velenik, Y. Link: The book’s webpage"
-  },
-  {
-    "objectID": "posts/20190501I1/index.html#introductory-scientific-books",
-    "href": "posts/20190501I1/index.html#introductory-scientific-books",
-    "title": "Some of my favorite books",
-    "section": "Introductory scientific books",
-    "text": "Introductory scientific books\n\nTitle: Introductory mathematical statistics; principles and methods Author: Kreyszig, E. Other: New York, Wiley, 1970.\n\n\nTitle: Differential topology with a view to applications Author: D. R. J. Chillingworth. Other: San Francisco : Fearon Publishers, c1976.\n\n\nTitle: The theory of functions Author: E. C. Titchmarsh. Other: London: Oxford university press, 1939.\n\n\nTitle: Fundamental concepts of abstract algebra, Author: Gertrude Ehrlich. Other: Mineola, N.Y. : Dover Publications, 2011."
-  },
-  {
-    "objectID": "posts/20190501I1/index.html#intuitive-nice-to-read-books",
-    "href": "posts/20190501I1/index.html#intuitive-nice-to-read-books",
-    "title": "Some of my favorite books",
-    "section": "Intuitive, nice-to-read books",
-    "text": "Intuitive, nice-to-read books\n\nTitle: Visual complex analysis, Author: Tristan Needham. Other: Oxford: Clarendon Press ; New York : Oxford University Press, 1997.\n\n\nTitle: Essays in the History of Mechanics, Author: Clifford A. Truesdell, Other: Springer-Verlag, 1968. Note: the essay titled “A program toward rediscovering the rational mechanics of the age of reason” is a good one!"
-  },
-  {
-    "objectID": "posts/20190501I1/index.html#books-related-to-the-freshman-year-courses",
-    "href": "posts/20190501I1/index.html#books-related-to-the-freshman-year-courses",
-    "title": "Some of my favorite books",
-    "section": "Books related to the freshman-year courses",
-    "text": "Books related to the freshman-year courses\n\nTitle: Proofs and fundamentals : a first course in abstract mathematics Author: Ethan D. Bloch Other: Boston, Birkhauser, 2000\n\n\nTitle: Calculus Author: Tom M. Apostol Other: John Wiley, [1967-69], v1 & v2\n\n\nTitle: Calculus Author: Michael Spivak Other: Publish or Perish, c2008\n\n\nTitle: Topology Author: James R. Munkres Other: Upper Saddle River, NJ Prentice Hall, Inc. c2000"
-  },
-  {
-    "objectID": "posts/20190501I1/index.html#non-technical-books",
-    "href": "posts/20190501I1/index.html#non-technical-books",
-    "title": "Some of my favorite books",
-    "section": "Non-technical books",
-    "text": "Non-technical books\n\nTitle: The First Three Minutes Author: Steven Weinberg Other: 1977\n\n\n## Also check out my goodreads profile for some other goodies"
-  },
-  {
-    "objectID": "posts/20200101I1/index.html",
-    "href": "posts/20200101I1/index.html",
-    "title": "Some of my favorite online-courses",
-    "section": "",
-    "text": "(sorry for the not-optimal organisation of this post)"
-  },
-  {
-    "objectID": "posts/20200101I1/index.html#clear-comprensive-intuitive",
-    "href": "posts/20200101I1/index.html#clear-comprensive-intuitive",
-    "title": "Some of my favorite online-courses",
-    "section": "Clear, comprensive, intuitive",
-    "text": "Clear, comprensive, intuitive\n\nTitle: Quantum Mechanics I (graduate course) Instructor: Dr. Altu&lt;9f&gt; &lt;96&gt;zpineci Link: See the course content in his website\n\n\nTitle: Principles of Evolution, Ecology and Behavior Instructor: Dr. Stephen C. Stearns Link: See the course content on oyc.yale.edu\n\n\nTitle: Principles of Microeconomics Instructor: Dr. Jonathan Gruber Link: See the course content on ocw.mit.edu\n\n\nTitle: Perturbation Theory and Asymtotic Series Instructor: Dr. Carl Bender Link: See the course content on pirsa.org\n\n\nTitle: cs50 Instructor: David J. Malan Link: See the course content on cs50.harvard.edu\n\n\nTitle: Quantum Physics I Instructor: Dr. Allan Adams Link: See the course content on ocw.mit.edu\n\n\nTitle: Mechanics (undergraduate course) Instructor: Dr. Altu&lt;9f&gt; &lt;96&gt;zpineci Link: See the course content on his website  Other: Also see the same course given one year prior\n\n\nTitle: Electromagnetism (undergraduate course) Instructor: Dr. Altu&lt;9f&gt; &lt;96&gt;zpineci Link: See the course content on his website  Other:\n\n\nTitle: Financial theory (undergraduate course) Instructor: Dr. John Geanakoplos Link: See the course content on oyc.yale.edu"
-  },
-  {
-    "objectID": "posts/20200101I1/index.html#language-courses-channels",
-    "href": "posts/20200101I1/index.html#language-courses-channels",
-    "title": "Some of my favorite online-courses",
-    "section": "Language courses & channels",
-    "text": "Language courses & channels\n\nTitle: Memrise (an app) Instructor: not applicable Link: See their website\n\n\nTitle: French the natural way Instructor: Alice Ayel Link: See her youtube channel\n\n\nTitle: Coffee Break French/German By: coffebreakacademy Link: See their coffe break courses on their website\n\n\nTitle: Easy Languages Description: Non-profit project aiming to help people learn languages through authentic street interviews Link: See their joint youtube channel"
-  },
-  {
     "objectID": "posts/241201I1/index.html",
     "href": "posts/241201I1/index.html",
     "title": "How to create a Docker container and use with Singularity/Apptainer in HPC environments",
     "section": "",
-    "text": "Abstract\nThe demand for computational power for scientific research has increased dramatically in the last decade. To deal with this demand, high-performance computing (HPC) clusters have been established as a collaboration between multiple research institutions and universities, providing thousands of researchers with a large pool of shared computing resources. Simply put, HPC clusters are a bunch of interconnected computers where individual users can carry out large-scale computations. Due to security reasons, only a few administrators can install software on these computers. As a result, individual users are constrained to use only the software provided by the administrators, limiting the use-case of HPC clusters. Singularity and docker solve this issue by allowing individual users to create and run custom virtual software environments where they can install any software they like. In this blog post, I’ll show you how to create a docker container and use it with singularity (a.k.a. apptainer).\n\n\nStep 1: Create a dockerfile\nTo create a docker container, we first need to create what is called a dockerfile.\n\ntouch my.dockerfile\nvi my.dockerfile\n\nInside the my.dockerfile, we need to list instructions for Docker to create a docker container. The format of a typical docker container that I use looks as follows:\n\n# Dockerfile for Seurat 4.3.0\nFROM rocker/r-ver:4.2.0\n# Install Seurat's system dependencies\nRUN apt-get update\nRUN apt-get install -y \\\n    libhdf5-dev \\\n    libcurl4-openssl-dev \\\n    libssl-dev \\\n    libpng-dev \\\n    libboost-all-dev \\\n    libxml2-dev \\\n    openjdk-8-jdk \\\n    python3-dev \\\n    python3-pip \\\n    wget \\\n    git \\\n    libfftw3-dev \\\n    libgsl-dev \\\n    pkg-config\nRUN apt-get install -y llvm-10\n# Install system library for rgeos\nRUN apt-get install -y libgeos-dev\n# Install UMAP\nRUN LLVM_CONFIG=/usr/lib/llvm-10/bin/llvm-config pip3 install llvmlite\nRUN pip3 install numpy\nRUN pip3 install umap-learn\nRUN git clone --branch v1.2.1 https://github.com/KlugerLab/FIt-SNE.git\nRUN g++ -std=c++11 -O3 FIt-SNE/src/sptree.cpp FIt-SNE/src/tsne.cpp FIt-SNE/src/nbodyfft.cpp  -o bin/fast_tsne -pthread -lfftw3 -lm\n# Install bioconductor dependencies & suggests\nRUN R --no-echo --no-restore --no-save -e \"install.packages('BiocManager')\"\n\nIn each line, the capitalised words are instructions for docker to tell what to do with the code following those words. For example, FROM tells docker that it should use the docker container located at hub.docker.com/layers/rocker/r-ver/4.2.0 as a base image and build the container on top of that image. This is typically used to set the operating system of the docker container, e.g. ubuntu, Fedora, etc. . In this particular case, I’m using the official docker container of R programming language version 4.2.0 as the base so that I don’t have to install it myself.\nThe lines following the first line tell which commands to execute to set up the container. For example, in the second line, I’m first updating the virtual operating system of the docker container, and then in the third line, I’m installing some libraries to the operating system that will be needed for the R packages that I use. The details of how to set up a docker container are beyond the scope of this blog post, so I’ll skip that for the moment.\nOnce you finish setting up the dockerfile, now we are ready to build the container and upload it somewhere so that we can access it whenever we want.\n\n\nStep 2: Create the docker container and push it to dockerhub\nAssuming that you are creating the docker container in a non-Linux environment, we will tell the docker that the container will be used in the Linux environment while we create the container.\n\ndocker build -t mycontainer:latest . -f my.dockerfile  --platform linux/x86_64 2&gt;&1 | tee build.log\n\nHere, mycontainer:latest gives the container a name and a tag to easily identify it. The tag is like a version of that container. The dot . following tells the docker that the docker file -f my.dockerfile is located at the current location where this command is executed. The parameter --platform Linux/x86_64 tells docker that the container should be compatible with a Linux host. Once you execute the above command, it can take from minutes to hours to create the container, depending on what you asked the docker to install to your container.\nOnce the creation of the container is complete, we need to push it a dockerhub as a repository. First, create an account at dockerhub. Then create a repository at dockerhub on the website. You will push the container you created on your computer to the repo you created in docker hub. Then from your terminal, log into your account\n\ndocker login --username &lt;dockerhub username&gt;\n\nNow you first need to tag the docker container in your computer to the repo in the dockerhub. List all docker images and copy IMAGE ID of that container. It should be a 12-character alphanumeric string, something like 76ad0cae35c3.\n\ndocker image ls\n\nOnce you find the IMAGE ID of your container, we tag it to the repo as\n\ndocker tag &lt;IMAGE ID&gt; &lt;dockerhub username&gt;/&lt;repo name&gt;\n\nNow we are ready to push the container that is still stored in your computer to the repo at &lt;dockerhub username&gt;/&lt;repo name&gt;.\n\ndocker push &lt;dockerhub username&gt;/&lt;repo name&gt;\n\nIt might take some time for the push to finish if this is your first time creating this container and it is a large container.\n\n\nStep 3: Run the docker container with Singularity/Apptainer\nHaving created the docker container and stored it in the dockerhub, we are ready to use with singularity. Log into the HPC cluster and make sure that the singularity/apptainer is installed already. We first make sure that the cache directories are created - otherwise, singularity will complain. Then we can directly run the docker container with singularity in the following way:\n\nmkdir $SINGULARITY_TMPDIR \nmkdir $APPTAINER_CACHEDIR\nsingularity run  docker://&lt;dockerhub username&gt;/&lt;repo name&gt;:latest\n\nHere, the word docker before &lt;dockerhub username&gt;/&lt;repo name&gt;:latest tells singularity to search for the repo in the dockerhub. With this, singularity downloads the docker container at &lt;dockerhub username&gt;/&lt;repo name&gt;:latest and runs it. Once it is done, you will be inside the container and start using the software that you have installed in that container.\nHowever, typically, when we are running the docker container, we also would like to access the data is that in the host environment. As a result, we need to bind some of the directories in the host to a directory in the virtual operating system. Binding simply means that you make a directory in the host operating system accessible from within the container. To accomplish this we pass --bind parameter. The path before : indicates the directory in the host, and the path after : indicates the path inside the container.\n\nsingularity run --bind &lt;host path&gt;:&lt;container path&gt; docker://&lt;dockerhub username&gt;/&lt;repo name&gt;:latest"
+    "text": "The demand for computational power for scientific research has increased dramatically in the last decade. To deal with this demand, high-performance computing (HPC) clusters have been established as a collaboration between multiple research institutions and universities, providing thousands of researchers with a large pool of shared computing resources. Simply put, HPC clusters are a bunch of interconnected computers where individual users can carry out large-scale computations. Due to security reasons, only a few administrators can install software on these computers. As a result, individual users are constrained to use only the software provided by the administrators, limiting the use-case of HPC clusters. Singularity and docker solve this issue by allowing individual users to create and run custom virtual software environments where they can install any software they like. In this blog post, I’ll show you how to create a docker container and use it with singularity (a.k.a. apptainer)."
+  },
+  {
+    "objectID": "posts/241201I1/index.html#conclusion",
+    "href": "posts/241201I1/index.html#conclusion",
+    "title": "How to create a Docker container and use with Singularity/Apptainer in HPC environments",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn conclusion, here I have shown you how to setup of a Docker container, push it to dockerhub so that it can be used anywhere, and run it using Singularity. Thanks to such containers, you can install and use any software/package in any of the computers that you have access to, as long as docker or singularity is installed."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Onurcan Bektas’s Webpage",
+    "title": "Posts",
     "section": "",
-    "text": "How to create a Docker container and use with Singularity/Apptainer in HPC environments\n\n\n\n\n\n\n\nhpc\n\n\nhowto\n\n\nsingularity\n\n\ndocker\n\n\n\n\nA brief description of my pipeline\n\n\n\n\n\n\nDec 1, 2024\n\n\nOnurcan Bektas\n\n\n\n\n\n\n  \n\n\n\n\nSome of my favorite online-courses\n\n\n\n\n\n\n\nocw\n\n\nrecommendations\n\n\n\n\nHere are some online lectures that I really liked following.\n\n\n\n\n\n\nMay 1, 2020\n\n\nOnurcan Bektas\n\n\n\n\n\n\n  \n\n\n\n\nSome of my favorite books\n\n\n\n\n\n\n\nbooks\n\n\nrecommendations\n\n\n\n\nHere are some books that I really liked reading\n\n\n\n\n\n\nJan 1, 2019\n\n\nOnurcan Bektas\n\n\n\n\n\n\nNo matching items"
+    "text": "How to create a Docker container and use with Singularity/Apptainer in HPC environments\n\n\n\nhpc\n\nhowto\n\nsingularity\n\ndocker\n\n\n\nA brief description of my pipeline\n\n\n\n\n\nDec 1, 2024\n\n\nOnurcan Bektas\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "side_projects.html",
+    "href": "side_projects.html",
+    "title": "Side projects",
+    "section": "",
+    "text": "R language, however great, is slow to handle calculations done on billions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of utility functions in Rust and made it available as a R package. Please see the README for how to use it, and the man pages for more details on the implemented functions."
+  },
+  {
+    "objectID": "side_projects.html#fast-utility-functions-for-r",
+    "href": "side_projects.html#fast-utility-functions-for-r",
+    "title": "Side projects",
+    "section": "",
+    "text": "R language, however great, is slow to handle calculations done on billions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of utility functions in Rust and made it available as a R package. Please see the README for how to use it, and the man pages for more details on the implemented functions."
+  },
+  {
+    "objectID": "side_projects.html#one-dimensional-interacting-stochastic-many-body-particle-system-gpu-cpu",
+    "href": "side_projects.html#one-dimensional-interacting-stochastic-many-body-particle-system-gpu-cpu",
+    "title": "Side projects",
+    "section": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)",
+    "text": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)\nThe studying interacting stochastic many-body particle systems analytically is limited to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up days if not weeks, due to the sheer number of particles that might be needed in the simulations to approximate the thermodynamic limit. Here, I started implementing one such codebase in Rust that can be extended and optimised for such purposes. Moreover, I’m now developing a GPU-accelerated version of this codebase in order to simulate 10M particles under a day using Apple or Nvidia GPUs.\nThis work is still in progress."
   }
 ]

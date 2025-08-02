@@ -1,5 +1,5 @@
 ---
-title: "Onurcan Bektas's Webpage"
+title: "Posts"
 listing:
   contents: posts
   sort: "date desc"

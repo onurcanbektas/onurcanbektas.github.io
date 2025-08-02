@@ -1,0 +1,19 @@
+---
+title: "Side projects"
+---
+
+## Fast utility functions for R
+R language, however great, is slow to handle calculations done on **billions of rows of data**.
+In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language.
+In that spirit, I implemented a set of utility functions in Rust and made it available as a [R package](http://localhost:5794/projects.html).
+Please see the [README](https://gitlab.com/onurcanbektas/bektas.utils.r/-/blob/main/README.md?ref_type=heads) for how to use it, and the man pages for more details on the implemented functions.
+
+## One-dimensional interacting stochastic many-body particle system (GPU & CPU)
+The studying interacting stochastic many-body particle systems analytically is limited to a few simple cases.
+As a result, it is imperative to study such complex systems numerically.
+However, these simulations can take up days if not weeks, due to the sheer number of particles that might be needed in the simulations to approximate the thermodynamic limit.
+Here, I started implementing one such [codebase in Rust](https://gitlab.com/onurcanbektas/langevin_many_body) that can be extended and optimised for such purposes.
+Moreover, I'm now developing a **GPU-accelerated** version of this codebase in order to simulate 10M particles under a day using Apple or Nvidia GPUs.
+
+**This work is still in progress.**
+
