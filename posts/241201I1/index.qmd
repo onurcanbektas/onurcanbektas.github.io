@@ -159,7 +159,7 @@ The path before `:` indicates the directory in the host, and the path after `:` 
 singularity run --bind <host path>:<container path> docker://<dockerhub username>/<repo name>:latest
 ```
 
-## Conclusion
+# Conclusion
 
 In conclusion, here I have shown you how to setup of a Docker container, push it to dockerhub so that it can be used anywhere, and run it using Singularity.
 Thanks to such containers, you can install and use any software/package in any of the computers that you have access to, as long as docker or singularity is installed.

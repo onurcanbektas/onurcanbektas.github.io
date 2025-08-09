@@ -22,7 +22,7 @@ Hi!
 My name is Onurcan. 
 I am currently a PhD candiate at the [Faculty of Physics](https://www.physik.lmu.de/en/index.html) at [Ludwig-Maximilians-Universität München](https://www.lmu.de/de/index.html), where I work in the group of [Prof. Steffen Rulands](https://www.theorie.physik.uni-muenchen.de/lsfrey/members/group_leaders/steffen_rulands/index.html).
 Before that, I was a Master student in the [Max Planck School Matter to Life](https://mattertolife.maxplanckschools.org/home).
-Before that, I was a Bachelor student in the [Department of Physics](https://phys.metu.edu.tr/) and [Department of Mathematics](https://math.metu.edu.tr/) at the [Middle East Technical University, Turkey](https://www.metu.edu.tr/).
+Before that, I was a Bachelor student in the [Department of Physics](https://phys.metu.edu.tr/) and [Department of Mathematics](https://math.metu.edu.tr/) at the [METU, Turkey](https://www.metu.edu.tr/).
 
 My current research has mainly two branches: one branch is to understand the biophysical mechanism of ageing and rejuvenation, the second branch is to understand the emergent phenomena intelligent robotic matter.
 
