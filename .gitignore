@@ -6,3 +6,5 @@
 !docs/
 !docs/*
 !CNAME
+
+/.quarto/
