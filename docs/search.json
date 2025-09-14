@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "research_projects.html",
+    "href": "research_projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "Current artificial intelligence systems show near-human-level capabilities when deployed in isolation. Systems of a few collaborating intelligent agents are being engineered to perform tasks collectively. This raises the question of whether robotic matter, where many learning and intelligent agents interact, shows emergence of collective behaviour. And if so, which kind of phenomena would such systems exhibit? Here, we study a paradigmatic model for robotic matter: a stochastic many-particle system in which each particle is endowed with a deep neural network that predicts its transitions based on the particles’ environments. For a one-dimensional model, we show that robotic matter exhibits complex emergent phenomena, including transitions between long-lived learning regimes, the emergence of particle species, and frustration. We also find a density-dependent phase transition with signatures of criticality. Using active matter theory, we show that this phase transition is a consequence of self-organisation mediated by emergent inter-particle interactions. Our simple model captures key features of more complex forms of robotic systems.\n\nContributions: Conceptualisation, numerical simulations, data analysis, writing of manuscript\nPre-print: arxiv: 2507.22148"
+  },
+  {
+    "objectID": "research_projects.html#emergent-phenomena-in-intelligent-robotic-matter",
+    "href": "research_projects.html#emergent-phenomena-in-intelligent-robotic-matter",
+    "title": "Research",
+    "section": "",
+    "text": "Current artificial intelligence systems show near-human-level capabilities when deployed in isolation. Systems of a few collaborating intelligent agents are being engineered to perform tasks collectively. This raises the question of whether robotic matter, where many learning and intelligent agents interact, shows emergence of collective behaviour. And if so, which kind of phenomena would such systems exhibit? Here, we study a paradigmatic model for robotic matter: a stochastic many-particle system in which each particle is endowed with a deep neural network that predicts its transitions based on the particles’ environments. For a one-dimensional model, we show that robotic matter exhibits complex emergent phenomena, including transitions between long-lived learning regimes, the emergence of particle species, and frustration. We also find a density-dependent phase transition with signatures of criticality. Using active matter theory, we show that this phase transition is a consequence of self-organisation mediated by emergent inter-particle interactions. Our simple model captures key features of more complex forms of robotic systems.\n\nContributions: Conceptualisation, numerical simulations, data analysis, writing of manuscript\nPre-print: arxiv: 2507.22148"
+  },
+  {
+    "objectID": "research_projects.html#smart-microfluidic-chips",
+    "href": "research_projects.html#smart-microfluidic-chips",
+    "title": "Research",
+    "section": "“Smart” microfluidic chips",
+    "text": "“Smart” microfluidic chips\nFrom the vasculature of animals to the porous media making up batteries, the core task of flow networks is to transport solutes and perfuse all cells or media equally with resources. Yet, living flow networks have a key advantage over porous media: they are adaptive and self-organize their geometry for homogeneous perfusion throughout the network. Here, we show that also artificial flow networks can self-organize toward homogeneous perfusion by the versatile adaption of controlled erosion. Flowing a pulse of cleaving enzyme through a network patterned into an erodible hydrogel, with initial channels disparate in width, we observe a homogenization in channel resistances. Experimental observations are matched with numerical simulations of the diffusion-advection-sorption dynamics of an eroding enzyme within a network. Analyzing transport dynamics theoretically, we show that homogenization only occurs if the pulse of the eroding enzyme lasts longer than the time it takes any channel to equilibrate to the pulse concentration. The equilibration time scale derived analytically is in agreement with simulations. Lastly, we show both numerically and experimentally that erosion leads to the homogenization of complex networks containing loops. Erosion being an omnipresent reaction, our results pave the way for a very versatile self-organized increase in the performance of porous media.\n\nContributions: Developed the experimental protocol\nPre-print: arXiv: 2410.19089"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! My name is Onurcan. I am currently a PhD candiate at the Faculty of Physics at Ludwig-Maximilians-Universität München, where I work in the group of Prof. Steffen Rulands. Before that, I was a Master student in the Max Planck School Matter to Life. Before that, I was a Bachelor student in the Department of Physics and Department of Mathematics at the METU, Turkey.\nMy current research has mainly two branches: one branch is to understand the biophysical mechanism of ageing and rejuvenation, the second branch is to understand the emergent phenomena intelligent robotic matter.\nYou can contact me at Onurcan dot Bektas snail lmu dot de."
+  },
+  {
+    "objectID": "posts/241201I1/index.html",
+    "href": "posts/241201I1/index.html",
+    "title": "How to create a Docker container and use with Singularity/Apptainer in HPC environments",
+    "section": "",
+    "text": "The demand for computational power for scientific research has increased dramatically in the last decade. To deal with this demand, high-performance computing (HPC) clusters have been established as a collaboration between multiple research institutions and universities, providing thousands of researchers with a large pool of shared computing resources. Simply put, HPC clusters are a bunch of interconnected computers where individual users can carry out large-scale computations. Due to security reasons, only a few administrators can install software on these computers. As a result, individual users are constrained to use only the software provided by the administrators, limiting the use-case of HPC clusters. Singularity and docker solve this issue by allowing individual users to create and run custom virtual software environments where they can install any software they like. In this blog post, I’ll show you how to create a docker container and use it with singularity (a.k.a. apptainer)."
+  },
+  {
+    "objectID": "posts/241201I1/index.html#conclusion",
+    "href": "posts/241201I1/index.html#conclusion",
+    "title": "How to create a Docker container and use with Singularity/Apptainer in HPC environments",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn conclusion, here I have shown you how to setup of a Docker container, push it to dockerhub so that it can be used anywhere, and run it using Singularity. Thanks to such containers, you can install and use any software/package in any of the computers that you have access to, as long as docker or singularity is installed."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "How to create a Docker container and use with Singularity/Apptainer in HPC environments\n\n\n\nhpc\n\nhowto\n\nsingularity\n\ndocker\n\n\n\nA brief description of my pipeline\n\n\n\n\n\nDec 1, 2024\n\n\nOnurcan Bektas\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "side_projects.html",
+    "href": "side_projects.html",
+    "title": "Side projects",
+    "section": "",
+    "text": "R language, however great, is slow to handle calculations done on billions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of utility functions in Rust and made it available as a R package. Please see the README for how to use it, and the man pages for more details on the implemented functions."
+  },
+  {
+    "objectID": "side_projects.html#fast-utility-functions-for-r",
+    "href": "side_projects.html#fast-utility-functions-for-r",
+    "title": "Side projects",
+    "section": "",
+    "text": "R language, however great, is slow to handle calculations done on billions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of utility functions in Rust and made it available as a R package. Please see the README for how to use it, and the man pages for more details on the implemented functions."
+  },
+  {
+    "objectID": "side_projects.html#one-dimensional-interacting-stochastic-many-body-particle-system-gpu-cpu",
+    "href": "side_projects.html#one-dimensional-interacting-stochastic-many-body-particle-system-gpu-cpu",
+    "title": "Side projects",
+    "section": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)",
+    "text": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)\nThe studying interacting stochastic many-body particle systems analytically is limited to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up days if not weeks, due to the sheer number of particles that might be needed in the simulations to approximate the thermodynamic limit. Here, I started implementing one such codebase in Rust that can be extended and optimised for such purposes. Moreover, I’m now developing a GPU-accelerated version of this codebase in order to simulate 10M particles under a day using Apple or Nvidia GPUs.\nThis work is still in progress."
+  }
+]
