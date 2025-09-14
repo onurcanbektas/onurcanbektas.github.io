@@ -1,8 +1,8 @@
-/.quarto/
-_freeze/
-_freeze/*
-_site/
-_site/*
-.DS_Store
-.Rproj.user/*
-.Rproj.user/
+# ignore everything
+*
+
+# except ...
+!.gitignore
+!docs/
+!docs/*
+!CNAME
