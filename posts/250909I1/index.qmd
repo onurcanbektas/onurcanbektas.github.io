@@ -1,0 +1,66 @@
+---
+title: "How to read a book effectively and efficiently?"
+description: "..."
+author: "Onurcan Bektas"
+date: "2024-12-01"
+categories: [test]
+draft: true 
+format: 
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-location: left
+    page-layout: article
+execute:
+    eval: false
+    cache: false
+    code-fold: show 
+    code-tools: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+engine: knitr
+---
+
+## Abstract (draft)
+Since elementary school, we've all probably read hundreds of books, if not tausends.
+Yet, we seem to struggle either fully comprehend the take-home messages of the books we read, or fail to incorporate them in our life to make a change for the better.
+Well, at least I did. 
+So I've developed a strategy to solve this bottleneck to ever expand my view.
+Here a description of this strategy if you have a similar problem.
+
+## Divide and conquer
+The nice thing about technical books is that they are *compertmantalised* at every decreasing *length-scales*: 
+a book is divided into sections, sections into subsections, subsections into motivation, development, example, conclusion, so and so forth.
+Take advantage of these compartments.
+Once you hit one of these boundaries (e.g. the end of a subsection), turn the pages back to the beginning of that boundary slowly and ask: 
+what was the point of this compartment? Why did the author wrote this particular comparment?
+For example, you might read the abstract of this post when you open this page.
+Why do you think I wrote an abstract? 
+I wrote it to convince you, in the shortest possible, to read the rest of the post.
+I've told you what problem I'm addressing in this post and what you might learn in the end.
+Once you do that, take a pen and wrote it down someone on the book, so that you won't forget.
+
+Now, you reach the boundaries of larger length-scales (e.g. the end of a subsection, or a section), look back at those notes, 
+and summarise again: what did you learn from those individial take-home message? 
+What is the overarching point that (sub)section is trying to make?
+
+## Leave bread crums
+While reading, for you to come back later once you reach the end of that compartment, put some marks to the places where the author makes his/her points.
+This will allow you to quickly remember the key points the author made within that compartment and how s/he made it.
+Moreover, sometimes we remember certain type of knowledge not in an abstract form that fully describes that particular knowledge, but through a close-to-home example.
+
+For example, whenever I think about *diminishing returns*, 
+I always remember the example that [Prof. Jonathan Gruber](https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/) gave about Pizzas.
+If I buy one Pizza for X euros, I will get Y amount of happines - or *utility* would be the correct term, let's ignore that.
+If I buy two Pizzas for 2X euros, I'll get roughly 2Y happines.
+If I buy three Pizzas for 3X euros, even though i've now spend 3 times more money on food, I won't get 3 times more happiness - there is only so much pizza I can eat.
+As I buy more Pizzas, the happiness that I derive from buying one extra Pizza will decrease.
+
+## Make an online-library of your knowledge
+Let's say you want to get better at leadership.
+Make a file about how to be a leader.
+As you gain more experience about leadership, come back to that document from time to time and update, as if you will lose your current memory and you will need to re-learn leadership from those notes.
+As you read more books, come back to those notes and update them if you learned something new, and frame the take-home messages of the books you read in the context of those notes.
+After all, something doesn't have to be true just because it is written in a book.
