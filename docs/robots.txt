@@ -1,1 +1,1 @@
-Sitemap: onurcanbektas.net/sitemap.xml
+Sitemap: ./sitemap.xml
