@@ -1,1 +1,1 @@
-Sitemap: https://onurcanbektas.quarto.pub/home/sitemap.xml
+Sitemap: onurcanbektas.net/sitemap.xml

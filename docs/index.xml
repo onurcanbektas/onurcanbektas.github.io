@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Home</title>
-<link>https://onurcanbektas.quarto.pub/home/</link>
-<atom:link href="https://onurcanbektas.quarto.pub/home/index.xml" rel="self" type="application/rss+xml"/>
+<link>onurcanbektas.net/</link>
+<atom:link href="onurcanbektas.net/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal webspage</description>
 <generator>quarto-1.7.33</generator>
 <lastBuildDate>Sat, 30 Nov 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>How to create a Docker container and use with Singularity/Apptainer in HPC environments</title>
   <dc:creator>Onurcan Bektas</dc:creator>
-  <link>https://onurcanbektas.quarto.pub/home/posts/241201I1/</link>
+  <link>onurcanbektas.net/posts/241201I1/</link>
   <description><![CDATA[ 
 
 
@@ -342,7 +342,7 @@ font-style: inherit;">&gt;</span>:latest</span></code></pre></div>
   <category>howto</category>
   <category>singularity</category>
   <category>docker</category>
-  <guid>https://onurcanbektas.quarto.pub/home/posts/241201I1/</guid>
+  <guid>onurcanbektas.net/posts/241201I1/</guid>
   <pubDate>Sat, 30 Nov 2024 23:00:00 GMT</pubDate>
 </item>
 </channel>

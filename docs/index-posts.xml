@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>Home</title>
-<link>https://onurcanbektas.quarto.pub/home/#category=posts</link>
-<atom:link href="https://onurcanbektas.quarto.pub/home/index-posts.xml" rel="self" type="application/rss+xml"/>
+<link>onurcanbektas.net/#category=posts</link>
+<atom:link href="onurcanbektas.net/index-posts.xml" rel="self" type="application/rss+xml"/>
 <description>Personal webspage</description>
 <generator>quarto-1.7.33</generator>
-<lastBuildDate>Sun, 14 Sep 2025 11:09:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 22:34:30 GMT</lastBuildDate>
 </channel>
 </rss>
