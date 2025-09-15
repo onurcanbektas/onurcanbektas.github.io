@@ -2,9 +2,9 @@
 *
 
 # except ...
-!.gitignore
+!.getignore
 !docs/
-!docs/*
+!docs/**
 !CNAME
 
 /.quarto/
