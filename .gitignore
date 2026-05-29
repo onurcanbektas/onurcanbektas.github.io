@@ -8,3 +8,5 @@
 !CNAME
 
 /.quarto/
+
+**/*.quarto_ipynb

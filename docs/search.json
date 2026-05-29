@@ -67,6 +67,6 @@
     "href": "side_projects.html#one-dimensional-interacting-stochastic-many-body-particle-system-gpu-cpu",
     "title": "Side projects",
     "section": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)",
-    "text": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)\nThe studying interacting stochastic many-body particle systems analytically is limited to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up days if not weeks, due to the sheer number of particles that might be needed in the simulations to approximate the thermodynamic limit. Here, I started implementing one such codebase in Rust that can be extended and optimised for such purposes. Moreover, I’m now developing a GPU-accelerated version of this codebase in order to simulate 10M particles under a day using Apple or Nvidia GPUs.\nThis work is still in progress."
+    "text": "One-dimensional interacting stochastic many-body particle system (GPU & CPU)\nThe studying interacting stochastic many-body particle systems analytically is limited only to a few simple cases. As a result, it is imperative to study such complex systems numerically. However, these simulations can take up days if not weeks, due to the sheer number of particles that might be needed in the simulations to approximate the thermodynamic limit. Here, I started implementing one such codebase in Rust that can run on both Nvidia and Apple GPUs."
   }
 ]
