@@ -67,6 +67,6 @@
     "href": "side_projects.html#fast-utility-functions-for-r",
     "title": "Side projects",
     "section": "Fast utility functions for R",
-    "text": "Fast utility functions for R\nR language, however great, is slow to handle calculations done on billions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of utility functions in Rust and made it available as a R package. Please see the README for how to use it, and the man pages for more details on the implemented functions."
+    "text": "Fast utility functions for R\nR language, however great, is slow to handle calculations done on billions of rows of data. In such cases, it is faster to call an external compiled function directly from R to streamline the data analysis without needing to switch to another language. In that spirit, I implemented a set of statistical utility functions in Rust and made it available as a R package."
   }
 ]
